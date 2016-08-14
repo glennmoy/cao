@@ -1,0 +1,34 @@
+      Leaving Certificate Results Nominal Points score
+             without reference to Eligibility.
+
+         Best Six(6) subjects to count for scoring.
+
+                     LCE points statistics for 1996
+                                    :
+                Total candidates presenting LCE : 60,990
+
+
+                                                                  Cumulative Figures
+
+Candidates   scoring   600 points       :       39   (    0.1%)       39   ( 0.1%)
+Candidates   scoring   from 500 - 599   :    2,516   (    4.1%)    2,555   ( 4.2%)
+Candidates   scoring   from 400 - 499   :   10,390   (   17.0%)   12,945   ( 21.2%)
+Candidates   scoring   from 300 - 399   :   13,471   (   22.1%)   26,416   ( 43.3%)
+Candidates   scoring   from 200 - 299   :   12,073   (   19.8%)   38,489   ( 63.1%)
+Candidates   scoring   from 100 - 199   :   10,983   (   18.0%)   49,472   ( 81.1%)
+Candidates   scoring   less than 100    :   11,518   (   18.9%)   60,990   (100.0%)
+
+                                                                  Cumulative Figures
+Candidates   scoring   600 points       :     39     (    0.1%)       39   ( 0.1%)
+Candidates   scoring   from 550 - 599   :    605     (    1.0%)      644   ( 1.1%)
+Candidates   scoring   from 500 - 549   : 1,911      (    3.1%)    2,555   ( 4.2%)
+Candidates   scoring   from 450 - 499   : 3,998      (    6.6%)    6,553   ( 10.7%)
+Candidates   scoring   from 400 - 449   : 6,392      (   10.5%)   12,945   ( 21.2%)
+Candidates   scoring   from 350 - 399   : 6,975      (   11.4%)   19,920   ( 32.7%)
+Candidates   scoring   from 300 - 349   : 6,496      (   10.7%)   26,416   ( 43.3%)
+Candidates   scoring   from 250 - 299   : 6,195      (   10.2%)   32,611   ( 53.5%)
+Candidates   scoring   from 200 - 249   : 5,878      (    9.6%)   38,489   ( 63.1%)
+Candidates   scoring   from 150 - 199   : 5,530      (    9.1%)   44,019   ( 72.2%)
+Candidates   scoring   from 100 - 149   : 5,453      (    8.9%)   49,472   ( 81.1%)
+Candidates   scoring   less than 100    : 11,518     (   18.9%)   60,990   (100.0%)
+

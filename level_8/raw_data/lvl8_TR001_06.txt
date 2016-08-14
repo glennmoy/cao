@@ -1,0 +1,40 @@
+                                                                                                                     Trinity College Dublin
+                                                                                                               TR001: Two-subject Moderatorship
+                                                                                                                  2006 Minimum Entry Levels
+               AH         BT           CC    DR***           EI         EC         EN     FR          FS     GG GE GK HS AR JS                MI                                  IT      LT        MT MU** PH                  PS       RU         SC   SP
+
+  AH            -       345          -          -            -          -        510*   350*         -        -            -    350     500*   490*       480         -          400    370           -        -        -       -       350*      -      445*
+  BT          345         -        350          -          490          -        510*   350*       445*       -          390    350     500*   490*         -       350            -    370           -        -      430      550      350*    420      445*
+  CC            -       350          -        480*           -          -        510*   350*         -        -            -    350     500*   490*       480       350          400    370           -        -      430       -       350*      -      445*
+ DR***          -         -        480*         -            -          -        505    480*       480*       -          480*   480*      -    490*         -       480*         480*   480*          -       520       -       -       480*    480*     480*
+  EI            -       490          -          -            -          -          -      -          -        -            -      -     500*   490*        490        -            -     490          -        -        -       -         -       -        -
+  EC            -         -          -          -            -          -          -      -          -      430          440*     -     500*     -          -         -            -      -         510*       -      440*     550      440*    440*     445*
+  EN          510*      510*       510*       505            -          -          -    505        510*       -          510*   510*     510   510*       510*      510*         510*   510*        510*      520     510*     550      510*    510*     510*
+  FR          350*      350*       350*       480*           -          -        505      -        445*       -          390      -     500*   490*        480      350*         390    370         510*      520     430      545      350*    420      410
+  FS            -       445*         -        480*           -          -        510*   445*         -        -          445*     -       -      -        480       445*         445*     -           -        -        -       -       445*      -      445*
+  GG            -         -          -          -            -        430          -      -          -        -            -      -     500*     -          -         -            -      -         510*       -      430      550        -     430        -
+  GE            -       390          -        480*           -        440*       510*   390        445*       -            -      -     500*   490*       480       390          400      -         510*       -      430       -       390     420      445*
+  GK          350       350        350        480*           -          -        510*     -          -        -            -      -     500*     -        480         -          400      -           -        -      430       -       350*      -      445*
+  HS          500*      500*       500*         -          500*       500*       510    500*         -      500*         500*   500*      -    500*       500*      500*         500*   500*          -       520     500*      -       500*    500*     500*
+  AR          490*      490*       490*       490*         490*         -        510*   490*         -        -          490*     -     500*     -        490*        -          490*   490*          -       520     490*      -         -     490*     490*
+  JS          480         -        480          -          490          -        510*   480        480        -          480    480     500*   490*         -       480            -    480           -        -      480      550      480     480      480
+  MI            -       350        350        480*           -          -        510*   350*       445*       -          390      -     500*     -        480         -          400    370           -       520     430       -       350*    420      400
+  IT          400         -        400        480*           -          -        510*   390        445*       -          400    400     500*   490*         -       400            -    400           -        -      430      550      400     420      435
+  LT          370       370        370        480*         490          -        510*   370          -        -            -      -     500*   490*       480       370          400      -         510*       -      430       -       370       -      445*
+  MT            -         -          -          -            -        510*       510*   510*         -      510*         510*     -       -      -          -         -            -    510*          -       520     510*     550        -       -        -
+ MU**           -         -          -        520            -          -        520    520          -        -            -      -      520    520         -       520            -      -         520        -      520      550        -       -        -
+  PH            -       430        430          -            -        440*       510*   430          -      430          430    430     500*   490*       480       430          430    430         510*      520       -      550      430     430        -
+  PS            -       550          -          -            -        550        550    545          -      550            -      -       -      -        550         -          550      -         550       550     550       -         -     550        -
+  RU          350*      350*       350*       480*           -        440*       510*   350*       445*       -          390    350*    500*     -        480       350*         400    370           -        -      430       -         -       -      445*
+  SC            -       420          -        480*           -        440*       510*   420          -      430          420      -     500*   490*       480       420          420      -           -        -      430      550        -       -      445*
+  SP          445*      445*       445*       480*           -        445*       510*   410        445*       -          445*   445*    500*   490*       480       400          435    445*          -        -        -       -       445*    445*       -
+Trinity College Dublin. Two-subject moderatorship (TR001): 2006 minimum entry levels.
+
+* Not all applicants at this level were offered places
+** Applicants are assessed on a music test and interview and on their leaving certificate examination results
+*** Applicants are assessed on a questionnaire and interview and on their leaving certificate examination results
+AH: Ancient history and archaeology         CC: Classical civilisationEI: Early Irish                       FR: French
+                                                                                        EN: English Literature                  GE: German     AR: History of art and architecture      LT: Latin            MT: Mathematics            MU: Music
+BT: Biblical and theological studies        DR: Drama studies        EC: Economics      FS: Film studies   GG: Geography        GK: Greek      HS: History         IT: Italian          JS: Jewish studies           MI: Modern Irish
+PH: Philosophy         PS: Psychology       RU: Russian              SC: Sociology      SP: Spanish
+

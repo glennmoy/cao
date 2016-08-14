@@ -1,0 +1,34 @@
+      Leaving Certificate Results Nominal Points score
+             without reference to Eligibility.
+
+         Best Six(6) subjects to count for scoring.
+
+                     LCE points statistics for 2005
+                                    :
+                Total candidates presenting LCE : 54,069
+
+Total candidates presenting LCE         : 54,069
+                                                                 Cumulative Figures
+
+Candidates   scoring   600 points       :    158    (    0.3%)      158   ( 0.3%)
+Candidates   scoring   from 500 - 599   : 4,150     (    7.7%)    4,308   ( 8.0%)
+Candidates   scoring   from 400 - 499   : 11,325    (   20.9%)   15,633   ( 28.9%)
+Candidates   scoring   from 300 - 399   : 13,725    (   25.4%)   29,358   ( 54.3%)
+Candidates   scoring   from 200 - 299   : 10,343    (   19.1%)   39,701   ( 73.4%)
+Candidates   scoring   from 100 - 199   : 8,066     (   14.9%)   47,767   ( 88.3%)
+Candidates   scoring   less than 100    : 6,302     (   11.7%)   54,069   (100.0%)
+
+                                                                 Cumulative Figures
+Candidates   scoring   600 points       :     158   (    0.3%)      158   ( 0.3%)
+Candidates   scoring   from 550 - 599   :   1,188   (    2.2%)    1,346   ( 2.5%)
+Candidates   scoring   from 500 - 549   :   2,962   (    5.5%)    4,308   ( 8.0%)
+Candidates   scoring   from 450 - 499   :   4,946   (    9.1%)    9,254   ( 17.1%)
+Candidates   scoring   from 400 - 449   :   6,379   (   11.8%)   15,633   ( 28.9%)
+Candidates   scoring   from 350 - 399   :   6,937   (   12.8%)   22,570   ( 41.7%)
+Candidates   scoring   from 300 - 349   :   6,788   (   12.6%)   29,358   ( 54.3%)
+Candidates   scoring   from 250 - 299   :   5,581   (   10.3%)   34,939   ( 64.6%)
+Candidates   scoring   from 200 - 249   :   4,762   (    8.8%)   39,701   ( 73.4%)
+Candidates   scoring   from 150 - 199   :   4,275   (    7.9%)   43,976   ( 81.3%)
+Candidates   scoring   from 100 - 149   :   3,791   (    7.0%)   47,767   ( 88.3%)
+Candidates   scoring   less than 100    :   6,302   (   11.7%)   54,069   (100.0%)
+

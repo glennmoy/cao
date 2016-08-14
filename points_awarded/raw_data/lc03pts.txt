@@ -1,0 +1,32 @@
+      Leaving Certificate Results Nominal Points score
+             without reference to Eligibility.
+
+         Best Six(6) subjects to count for scoring.
+
+                     LCE points statistics for 2003
+                                    :
+                Total candidates presenting LCE : 56,237
+
+                                                              Cumulative   Figures
+Candidates   scoring   600 points       :    101    (    0.2%)     101     ( 0.2%)
+Candidates   scoring   from 500 - 599   : 4,002     (    7.1%)   4,103     ( 7.3%)
+Candidates   scoring   from 400 - 499   : 11,492    (   20.4%) 15,595      ( 27.7%)
+Candidates   scoring   from 300 - 399   : 14,400    (   25.6%) 29,995      ( 53.3%)
+Candidates   scoring   from 200 - 299   : 11,420    (   20.3%) 41,415      ( 73.6%)
+Candidates   scoring   from 100 - 199   : 8,486     (   15.1%) 49,901      ( 88.7%)
+Candidates   scoring   less than 100    : 6,336     (   11.3%) 56,237      (100.0%)
+
+                                                              Cumulative   Figures
+Candidates   scoring   600 points       :     101   (    0.2%)     101     ( 0.2%)
+Candidates   scoring   from 550 - 599   :   1,165   (    2.1%)   1,266     ( 2.3%)
+Candidates   scoring   from 500 - 549   :   2,837   (    5.0%)   4,103     ( 7.3%)
+Candidates   scoring   from 450 - 499   :   4,939   (    8.8%)   9,042     ( 16.1%)
+Candidates   scoring   from 400 - 449   :   6,553   (   11.7%) 15,595      ( 27.7%)
+Candidates   scoring   from 350 - 399   :   7,365   (   13.1%) 22,960      ( 40.8%)
+Candidates   scoring   from 300 - 349   :   7,035   (   12.5%) 29,995      ( 53.3%)
+Candidates   scoring   from 250 - 299   :   6,218   (   11.1%) 36,213      ( 64.4%)
+Candidates   scoring   from 200 - 249   :   5,202   (    9.3%) 41,415      ( 73.6%)
+Candidates   scoring   from 150 - 199   :   4,501   (    8.0%) 45,916      ( 81.6%)
+Candidates   scoring   from 100 - 149   :   3,985   (    7.1%) 49,901      ( 88.7%)
+Candidates   scoring   less than 100    :   6,336   (   11.3%) 56,237      (100.0%)
+

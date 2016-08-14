@@ -1,0 +1,708 @@
+                                                              Admission data for entry 2005 Level 8
+
+
+        The details given are for general information only and do not
+        form part of any contract. They are not intended for use in
+        determining whether any individual applicant is or is not
+        entitled to an offer of a higher education place.
+
+   *    Not all on this points score were offered places
+  **    Matriculated candidates are considered but admission is on
+        the basis of performance in the music test and interview.
+  ***   Applicants are ranked as for other courses but the final
+        decision depends on performance in interview.
+  #     Test / Interview / Portfolio
+ AQA     All qualified applicants
+
+Code                         INSTITUTION and COURSE
+                                    ATHLONE IT                                    Final     Median
+AL031   Computer and Software Engineering                                           275        315
+AL033   Toxicology                                                                  255        330
+AL035   Construction Technology and Management                                      290        345
+AL050   Business Studies                                                            300        340
+AL051   Accountancy                                                                 300        340
+AL052   Design (Visual Communications)                                             640#       815#
+AL053   Pharmaceutical Sciences                                                     300        345
+AL054   Social Care Practice                                                        340        355
+AL055   Languages & Business Administration                                         260        335
+AL110   General Nursing                                                            360*        380
+AL111   Mature Applicants General Nursing                                          168#       174#
+AL112   Psychiatric Nursing                                                         325        345
+AL113   Mature Applicants Psychiatric Nursing                                      151#       158#
+
+                                CARLOW COLLEGE
+PC410   Humanities                                                                  300        325
+
+                                        IT CARLOW
+CW046   Computer Networking
+CW105   Early Childhood Studies                                                     330        350
+CW120   Early Childhood Studies (WEXFORD)                                           290        320
+CW122   Accounting                                                                  275        320
+CW123   Communications and Public Relations                                         325        360
+CW131   Computer Games Development                                                  340        380
+
+                                         CORK IT
+CR105   Chemical & Process Engineering                                              310        440
+CR106   Software Development                                                        245        355
+CR107   Electronic Engineering                                                      230        370
+CR108   Mechanical Engineering                                                      300        390
+CR109   Structural Engineering                                                      450        470
+CR111   Computerised Instrument Systems                                             210        305
+CR112   Multimedia                                                                  395        425
+CR114   Software Development with French
+CR115   Software Development with German
+CR116   Software Development and Computer Networking                                260         345
+CR121   Music at Cork School of Music                                             745**       940**
+CR150   Business Information Systems                                                335         355
+
+                           DUBLIN BUSINESS SCHOOL
+DB512   Business Studies                                                            210        320
+DB514   Business Studies (Law)                                                      220        310
+DB515   Business Studies (Human Resource Management)                                200        305
+DB516   Business Studies (Financial Services)                                       235        320
+DB517   Business Studies (Event Management)                                         210        320
+DB518   Business Studies (Information Systems)                                      275        320
+DB521   Accounting and Finance                                                      185        315
+DB531   Marketing                                                                   230        305
+DB551   Arts (was: Anthropology, now: Media & Cultural Studies )                    225        345
+DB552   Arts (was: Literature & Drama, now: Film, Literature & Drama)               215        300
+DB553   Arts (was: Film Studies, now: Film, Literature & Drama)                     205        320
+DB561   Arts (General)                                                              200        315
+DB562   Arts (Psychology)                                                           205        320
+DB564   Arts (was: Media Studies, now: Media & Cultural Studies )                   215        325
+DB565   Arts (Journalism)                                                           230        320
+
+                                FROEBEL COLLEGE
+FR001   B. Ed.                                                                     445*        450
+FR002   B. Ed. - Gaeltacht Applicants                                               405        410
+
+                               MILLTOWN INSTITUTE
+PT011   Philosophy                                                                  215        320
+PT012   Theology and Pastoral Care                                                  250        300
+PT013   Philosophy and Theology                                                     215        300
+PT014   Theology and Anthropology                                                   270        300
+                                                            Admission data for entry 2005 Level 8
+                    NATIONAL COLLEGE of ART and DESIGN
+AD001   Art and Design Education                                                    #
+AD012   Industrial Design                                                           #
+
+                        NATIONAL COLLEGE of IRELAND
+NC001   Accounting and Human Resource Management                                  335        370
+NC003   Software Systems                                                          260        300
+NC004   Information Systems                                                       250        320
+NC011   Accounting and Human Resource Management - ABP                            295        320
+NC013   Software Systems - ABP
+NC014   Information Systems - ABP
+
+                           TRINITY COLLEGE DUBLIN                               Final     Median
+TR002   Music                                                                   **475       **510
+TR003   History                                                                   460         490
+TR004   Law                                                                      530*         560
+TR005   Philosophy                                                               460*         510
+TR006   Psychology                                                                545         560
+TR007   Clinical Speech and Language Studies                                     515*         530
+TR008   Biblical and Theological Studies                                          335         415
+TR009   Music Education                                                         **450         480
+TR010   Computer Science, Linguistics and German                                  440         480
+TR011   Computer Science, Linguistics and French                                  440         485
+TR012   History and Political Science                                             545         570
+TR013   Computer Science, Linguistics and Irish
+TR014   Philosophy & Political Science                                            500        515
+TR018   Law and French                                                           560*        580
+TR019   Law and German                                                            510        540
+TR021   Classics                                                                  430        460
+TR022   Early and Modern Irish                                                    315        380
+TR023   English Studies                                                          500*        510
+TR024   European Studies                                                          530        555
+TR025   Drama and Theatre Studies                                              510***      525***
+TR026   Germanic Languages                                                        405        415
+TR031   Mathematics                                                               410        490
+TR032   Engineering                                                              445*        485
+TR033   Computer Science                                                          365        440
+TR034   Management Science and Information Systems Studies                       455*        485
+TR035   Theoretical Physics                                                       445        535
+TR036   Computer Science ( Evening Lectures)                                      350        666
+TR038   Manufacturing Engineering with Management Science                         355        405
+TR051   Medicine                                                                 590*        600
+TR052   Dental Science                                                           555*        570
+TR053   Physiotherapy                                                             540        560
+TR054   Occupational Therapy                                                     505*        520
+TR055   Radiation Therapy                                                         510        525
+TR071   Science                                                                  440*        485
+TR072   Pharmacy                                                                 555*        570
+TR073   Human Genetics                                                            545        555
+TR074   Chemistry with Molecular Modelling                                        410        490
+TR075   Medicinal Chemistry                                                      465*        500
+TR076   Physics and Chemistry of Advanced Materials                               350        430
+TR081   Business, Economic and Social Studies                                    470*        490
+TR083   Sociology and Social Policy                                               455        470
+TR084   Social Studies (Social Work)                                              480        505
+TR085   Business Studies and French                                               485        500
+TR086   Business Studies and German                                               400        425
+TR087   Business Studies and Russian                                              405        435
+TR091   General Nursing (Meath and St James's)                                   380*        410
+TR092   Mature Applicants General Nursing (Meath & St James's)                  160#*       165#
+TR093   General Nursing (Adelaide School of Nursing)                             395#           #
+TR094   Mature Applicants General Nursing (Adelaide School)                      166#       169#
+TR095   Psychiatric Nursing                                                       320        340
+TR096   Mature Applicants Psychiatric Nursing                                    134#       152#
+TR097   Intellectual Disability Nursing                                           300        335
+TR098   Mature Applicants Intellectual Disability Nursing                        132#       152#
+        Ancient History and Archaeology                                           450
+        Biblical and Theological Studies                                          385
+        Classical Civilisation                                                    445
+        Drama Studies                                                             450
+        Early Irish                                                                 -
+        Economics                                                                450*
+        English Literature                                                       505*
+        Film Studies                                                              460
+        French                                                                   390*
+        Geography                                                                 435
+        German                                                                    405
+        Greek                                                                     445
+        History                                                                  510*
+        History of Art and Architecture                                          490*
+                                                           Admission data for entry 2005 Level 8
+        Jewish Studies                                                           490
+        Modern Irish                                                             335
+        Italian                                                                  390
+        Latin                                                                    395
+        Mathematics                                                              510
+        Music                                                                 **520*
+        Philosophy                                                              475*
+        Psychology                                                              565*
+        Russian                                                                  335
+        Sociology                                                               435*
+        Spanish                                                                 405*
+
+                           AMERICAN COLLEGE DUBLIN
+AC120   International Business                                                   200        330
+AC141   Behavioural Science (Psychology)                                         235        325
+
+                         CHURCH OF IRELAND COLLEGE                             Final     Median
+CE001   B. Ed.                                                                375***
+
+                            COLAISTE MHUIRE MARINO
+CM001   B. Ed.                                                                  455*        465
+CM002   B. Ed. - Gaeltacht Applicants                                            415        445
+
+                          UNIVERSITY COLLEGE DUBLIN
+DN001   Architecture                                                            525*        560
+DN002   Medicine (five year / six year course)                                  575*        590
+DN004   Radiography                                                              500        510
+DN005   Veterinary Medicine                                                      555        570
+DN006   Physiotherapy                                                           535*        545
+DN007   Social Science                                                           395        435
+DN008   Science                                                                  330        420
+DN009   Law (BCL)                                                                515        530
+DN010   Agricultural Science                                                     320        355
+DN011   Music (BMus)                                                               #          #
+DN012   Arts                                                                     360        400
+DN014   Commerce (International) - with Modern Irish                             440        455
+DN015   Commerce                                                                 460        480
+DN016   Commerce (International) - with German                                   435        475
+DN017   Commerce (International) - with French                                   510        535
+DN018   Commerce (International) - with Spanish                                  450        475
+DN019   Commerce (International) - with Italian                                  445        455
+DN020   Actuarial and Financial Studies                                          560        575
+DN021   Business and Legal Studies                                              495*        515
+DN022   Arts (Modular Evening Course)                                              #          #
+DN024   Sports Management                                                        400        420
+DN026   Economics & Finance                                                      475        515
+DN029   Law with French Law (BCL)                                                510        525
+DN030   Computer Science (Science)                                               315        370
+DN031   Theoretical Physics                                                      435        500
+DN032   Mathematical Science                                                     430        485
+DN040   Food Science                                                             340        370
+DN041   Landscape Architecture                                                   370        420
+DN042   Forestry                                                                 310        350
+DN043   Food and Agribusiness Management                                         320        360
+DN044   Applied Environmental Sciences                                           310        320
+DN045   Animal and Crop Production                                               310        370
+DN046   Animal Science                                                           320        350
+DN047   Engineering Technology                                                   340        385
+DN048   Horticulture, Landscape & Sportsturf Management                          335        365
+DN050   Computer Science (Arts) + 2 Arts subjects                                330        355
+DN051   Economics + 2 permissible subjects under DN012                           445        455
+DN052   History + 2 permissible subjects under DN012                             450        465
+DN053   Philosophy + 2 permissible subjects under DN012                          420        430
+DN054   Psychology + 2 permissible subjects under DN012                          495        515
+DN055   English + 2 permissible subjects under DN012                             500        510
+DN057   Arts (International) - French                                            450        490
+DN058   Arts (International) - German                                            360        410
+DN059   Arts (International) - Spanish                                           415        425
+DN071   Chemical Engineering                                                     395        475
+DN072   Civil Engineering                                                        490        505
+DN073   Electronic Engineering or Electrical Engineering                         350        445
+DN074   Mechanical Engineering                                                   420        450
+DN076   Biosystems Engineering                                                   360        455
+DN077   Engineering                                                              495        515
+DN078   Structural Engineering with Architecture                                 510        520
+DN105   Veterinary Medicine - graduate entry route                                 #          #
+DN110   General Nursing                                                         365*        390
+DN111   Mature Applicants General Nursing                                      155#*       160#
+DN120   Psychiatric Nursing                                                      350        360
+DN121   Mature Applicants Psychiatric Nursing                                   150#       158#
+                                                                 Admission data for entry 2005 Level 8
+                                     DUNDALK IT
+DK810   Accounting and Finance                                                         300        355
+DK812   Marketing                                                                      235        310
+DK820   Computing - Games Development                                                  270        335
+DK821   Computing (Internet Technologies)                                              225        300
+DK830   Building Surveying                                                             280        330
+DK860   Music                                                                         305#       360#
+DK870   General Nursing                                                                355        365
+DK871   Mature Applicants General Nursing                                            169#*       176#
+DK872   Intellectual Disability Nursing                                                215        290
+DK873   Mature Applicants Intellectual Disability Nursing                             135#       155#
+DK874   Psychiatric Nursing                                                            305        325
+DK875   Mature Applicants Psychiatric Nursing                                        149#*       159#
+DK880   Health Promotion & Physical Activity                                          310*        345
+
+                           UNIVERSITY COLLEGE CORK                                   Final     Median
+CK101   Arts                                                                           360        405
+CK102   Social Science                                                                 395        425
+CK103   Music                                                                         350#       390#
+CK104   Arts with Music                                                               360#       450#
+CK106   Applied Psychology                                                             515        540
+CK111   Early Childhood Studies                                                        370        400
+CK112   Drama and Theatre Studies                                                     380#       455#
+CK114   Social Science (Youth and Community Work)                                        #          #
+CK115   Social Work                                                                      #          #
+CK201   Commerce                                                                       445        465
+CK202   Accounting                                                                     495        520
+CK203   Business Information Systems                                                   385        425
+CK204   Finance                                                                        465        485
+CK205   Commerce (European) and French                                                 455        490
+CK206   Commerce (European) and German                                                 350        420
+CK207   Commerce (European) and Italian                                                365        410
+CK208   Commerce (European) and Spanish                                                405        440
+CK209   Commerce (European) and Irish                                                  450        480
+CK210   Government                                                                     365        401
+CK301   Law                                                                            500        520
+CK302   Law and French                                                                 505        535
+CK303   Law and German                                                                 490        495
+CK304   Law and Irish                                                                  505        540
+CK401   Computer Science                                                               300        350
+CK402   Biological & Chemical Sciences                                                 400        460
+CK404   Environmental and Earth System Sciences                                        330        385
+CK405   Genetics                                                                       450        485
+CK406   Chemical Sciences                                                              300        400
+CK407   Mathematical Sciences                                                          480        520
+CK408   Physics and Astrophysics                                                       485        535
+CK501   Food Business                                                                  325        350
+CK504   Nutritional Sciences                                                           455        485
+CK505   Food Science and Technology                                                    300        355
+CK506   International Development and Food Policy                                      345        385
+CK601   Process and Chemical Engineering                                               495        545
+CK602   Civil & Environmental Engineering                                              515        540
+CK605   Electrical, Electronic and Microelectronic Engineering                         300        455
+CK701   Medicine                                                                      575*        590
+CK702   Dentistry                                                                     555*        570
+CK703   Pharmacy                                                                      560*        570
+CK704   Occupational Therapy                                                          505*        515
+CK705   Speech and Language Therapy                                                    525        545
+CK706   Public Health and Health Promotion                                             440        455
+CK710   General Nursing                                                                415        440
+CK711   Mature Applicants General Nursing                                            168#*       175#
+CK720   Psychiatric Nursing                                                            380        400
+CK721   Mature Applicants Psychiatric Nursing                                        149#*       159#
+CK730   Intellectual Disability Nursing                                               350*        365
+CK731   Mature Applicants Intellectual Disability Nursing                             136#       161#
+
+                                    NUI - GALWAY
+GY101   Arts                                                                           375        420
+GY102   Arts (Economic and Social Studies - St Angela's,Sligo)                         290        330
+GY103   Arts (Public and Social Policy)                                                360        375
+GY104   Arts (Psychology)                                                             535*        545
+GY201   Commerce                                                                       415        445
+GY202   Commerce (International) with French                                          475*        500
+GY203   Commerce (International) with German                                           375        415
+GY204   Commerce (International) with Spanish                                          390        420
+GY205   Commerce (International) with Italian                                          335        445
+GY206   Business Information Systems (B.Sc)                                            350        375
+GY250   Bachelor of Corporate Law (B.Corp.Law)                                         475        495
+GY251   Bachelor of Civil Law (B.C.L.)                                                500*        520
+GY301   Science                                                                        320        395
+                                                            Admission data for entry 2005 Level 8
+GY302   Applied Physics and Electronics or Experimental Physics                   320        385
+GY303   Biomedical Science                                                        480        505
+GY304   Biotechnology                                                             330        435
+GY306   Computing Studies/Mathematical Science                                    270        360
+GY308   Environmental Science                                                     360        390
+GY309   Financial Mathematics and Economics                                       400        470
+GY310   Marine Science                                                            330        385
+GY312   Physics and Astronomy                                                     335        480
+GY313   Health & Safety Systems                                                   360        390
+GY314   Earth and Ocean Sciences                                                  320        350
+GY350   Information Technology                                                    310        395
+GY401   Engineering (Undenominated)                                               465        485
+GY402   Civil Engineering                                                         490        505
+GY403   Electronic Engineering                                                    335        400
+GY404   Industrial Engineering & Information Systems                              325        400
+GY405   Mechanical Engineering                                                    410        450
+GY406   Electronic and Computer Engineering                                       295        385
+GY408   Biomedical Engineering                                                    435        465
+GY409   Environmental Engineering                                                 450        470
+GY501   Medicine                                                                 570*        580
+GY502   Occupational Therapy (also at St Angela's,Sligo)                          505        515
+GY503   Speech and Language Therapy (also at St Angela's,Sligo)                   520        535
+GY515   General Nursing (Galway & Portiuncula)                                   410*        435
+GY516   Psychiatric Nursing                                                       350        360
+GY525   Mature Applicants General Nursing (Galway & Portiuncula)                168#*       173#
+GY526   Mature Applicants Psychiatric Nursing                                   152#*       165#
+
+                      DUBLIN INSTITUTE OF TECHNOLOGY                            Final     Median
+DT001   Product Design                                                           380         410
+DT021   Electrical and Electronic Engineering                                    365         450
+DT025   Engineering - Common 1st Year                                            420         440
+DT028   Transport Technology                                                     215         315
+DT081   Computer Engineering                                                     295         335
+DT101   Architecture                                                            580#        627#
+DT106   Planning and Environmental Management                                    390         415
+DT110   Property Economics (Valuation Surveying)                                 415         435
+DT111   Construction Economics and Mgmnt (Quantity Surveying)                    430         450
+DT112   Geomatics                                                                310         365
+DT203   Forensic and Environmental Science                                       385         420
+DT204   Biomedical Science                                                       405         455
+DT205   Mathematical Sciences                                                    280         350
+DT222   Physics Technology                                                       270         325
+DT223   Human Nutrition and Dietetics                                            535         550
+DT224   Optometry                                                                510         530
+DT228   Computer Science                                                         260         325
+DT229   Clinical Measurement                                                     350         380
+DT341   Marketing                                                                395         405
+DT343   Retail and Services Management                                           360         380
+DT354   Information Systems Development                                          300         360
+DT358   Transport and Logistics                                                  310         345
+DT365   Business and Management                                                  415         430
+DT366   Accounting and Finance                                                   425         440
+DT401   Hospitality Management                                                   310         340
+DT407   Culinary Arts                                                            280         340
+DT412   Tourism Marketing                                                        340         355
+DT413   Event Management                                                         395         410
+DT480   Food Technology/Pharmaceutical Technology                                285         315
+DT491   Environmental Health                                                     350         385
+DT501   Music                                                                   380#        510#
+DT530   Printing Management                                                      210         290
+DT544   Design - Interior + Furniture                                           492#        605#
+DT545   Design - Visual Communication                                           558#        740#
+DT546   Fine Art                                                                538#        722#
+DT552   Media Arts                                                               440         470
+DT553   Journalism with a Language                                               440         460
+DT555   International Business and Languages ( French)                           370         405
+DT556   International Business and Languages ( German)                           300         355
+DT557   International Business and Languages ( Spanish)                          305         345
+DT559   Photography                                                             615#        710#
+DT571   Social Care                                                              375         395
+
+                          GRIFFITH COLLEGE DUBLIN
+GC201   Accounting and Finance (Cork)                                             305        370
+GC400   Business Studies                                                          210        345
+GC401   Accounting & Finance                                                      260        345
+GC402   Legal Studies with Business                                               300        345
+GC430   Computing Science                                                         265        304
+GC450   Journalism & Visual Media                                                 260        335
+                                                             Admission data for entry 2005 Level 8
+                              IT BLANCHARDSTOWN
+BN101   Business Studies                                                           260        315
+
+                                    IT TALLAGHT
+TA110   European Studies                                                           230        305
+TA307   Pharmaceutical Science                                                     220        310
+
+                                     MATER DEI
+MD201   Religion, Education and English                                           370         410
+MD301   Religion, Education and History                                           360         390
+MD401   Religion, Education and Music                                            360#        410#
+MD500   Irish Studies and Religious Studies                                       300         330
+
+                           MARY IMMACULATE LIMERICK
+MI005   B. Ed                                                                      465        490
+MI006   B. Ed - Gaeltacht Applicants                                               430        450
+MI007   B. A. in Early Childhood Care and Education                               365*        390
+MI008   B.Ed - Education and Psychology                                           535*        545
+
+                               DUN LAOGHAIRE IADT
+DL041   Animation                                                                645#        890#
+DL042   Photography                                                              789#        899#
+DL043   Visual Communication                                                     820#        910#
+DL044   Visual Arts Practice (Fine Art)                                          639#        819#
+DL045   Film and Television Production                                           909#        980#
+DL141   Psychology Applied to Information Technology                              275         330
+DL241   English, Media and Cultural Studies                                       370         415
+DL242   Business Studies and Arts Management                                      310         345
+
+                             UNIVERSITY OF LIMERICK                              Final     Median
+LM020   Law and Accounting                                                        500         535
+LM021   Applied Languages with Computing                                          485         485
+LM030   Irish Music and Dance                                                    280#        385#
+LM033   New Media and English                                                     415         440
+LM035   English and History                                                       375         400
+LM036   Economics and Sociology                                                   340         375
+LM037   Economics and Mathematical Sciences                                       400         435
+LM040   European Studies                                                          335         360
+LM041   Public Administration                                                     335         365
+LM042   Law and European Studies                                                  470         495
+LM043   International Insurance and European Studies                              350         380
+LM044   Applied Languages                                                         460         490
+LM045   Language and Cultural Studies                                             355         400
+LM046   History, Politics, Sociology and Social Studies                           400         465
+LM047   Liberal Arts - offered at Mary Immaculate College                        400*         430
+LM048   Irish and New Media/An Ghaeilge agus na Meáin Úra                         365         405
+LM050   Business Studies                                                          410         440
+LM051   Computer Systems                                                          310         360
+LM052   Business Studies and a Modern Language (French)                           425         455
+LM053   Business Studies and a Modern Language (German)                           430         470
+LM055   Business Studies and a Modern Language (Japanese)                         405         405
+LM058   Financial Mathematics                                                     400         480
+LM060   Mathematical Sciences                                                     435         490
+LM061   Pharmaceutical and Industrial Chemistry                                   400         445
+LM062   Biomedical and Advanced Materials                                         340         375
+LM063   Production Management                                                     310         345
+LM064   Industrial Biochemistry                                                   390         465
+LM065   Applied Physics                                                           385         450
+LM066   Environmental Science                                                     335         395
+LM067   Wood Science and Technology                                               320         375
+LM068   Food Science and Health                                                   360         410
+LM069   Computer Engineering                                                      360         465
+LM070   Electronic Engineering                                                    370         465
+LM071   Biomedical Engineering                                                    465         480
+LM073   Mechanical Engineering                                                    415         480
+LM074   Computer Integrated Design                                                420         460
+LM075   Engineering Science                                                       350         370
+LM076   Product Design and Technology                                             365         425
+LM077   Aeronautical Engineering                                                  400         455
+LM079   Manufacturing Engineering                                                 400         400
+LM080   Electronic Systems                                                        310         365
+LM081   Manufacturing Systems                                                     310         360
+LM082   Construction Management and Engineering                                  385*         415
+LM083   Applied Computing and Network Technologies                                270         330
+LM084   Information Systems                                                       325         350
+LM086   Health & Safety                                                           340         400
+LM089   Sport & Exercise Sciences                                                 440         465
+LM090   Physical Education with concurrent Teacher Education                     480#        500#
+LM092   Science with concurrent Teacher Education (Biological Sciences)           370         440
+LM093   Equine Science                                                            300         375
+                                                              Admission data for entry 2005 Level 8
+LM094   Materials & Construction Tech with concurrent Teacher Ed                     410*          440
+LM095   Materials & Engineering Tech with concurrent Teacher Ed                       370          395
+LM096   Science with concurrent Teacher Education (Physics & Chemistry)               380          440
+LM099   Architecture                                                                 525*          545
+LM100   Physiotherapy                                                                 570          580
+LM110   Multimedia & Computer Games Development                                       380          430
+LM150   General Nursing                                                               415          435
+LM151   Mature Applicants General Nursing                                            174#         189#
+LM152   Mental Health Nursing                                                         350          365
+LM153   Mature Applicants Mental Health Nursing                                      133#         157#
+LM154   Intellectual Disability Nursing                                               350          360
+LM155   Mature Applicants Intellectual Disability Nursing                            139#         152#
+
+                              TIPPERARY INSTITUTE
+TI005   Business Studies eBusiness                                                    225             300
+
+                            ST PATRICK'S - THURLES
+TH001   Religious Education, Business Studies and Education                           300*            340
+
+
+
+                            DUBLIN CITY UNIVERSITY                           Final           Median
+DC111   Business Studies                                                              435             450
+DC112   European Business (French)                                                    455             470
+DC113   European Business (German)                                                    360             405
+DC114   European Business (Spanish)                                                   355             400
+DC115   Accounting and Finance                                                        450             475
+DC116   European Business (Transatlantic Studies)                                     505             525
+DC118   Fiontraíocht le Ríomhaireacht / Gaeilge Fheidhmeach                           330             405
+DC121   Computer Applications                                                         300             350
+DC125   Mathematical Sciences                                                         395             440
+DC126   Financial and Actuarial Mathematics                                           485             520
+DC131   Communication Studies                                                         445             470
+DC132   Journalism                                                                    455             490
+DC133   Multimedia                                                                    415             435
+DC146   International Business & Languages (French/German)                            325             385
+DC147   International Business & Languages (French/Spanish)                           395             440
+DC148   International Business & Languages (German/Spanish)                           325             390
+DC149   International Business & Languages (Japanese)                                 370             385
+DC155   Languages for International Communication                                     350             400
+DC156   Languages for Intl Communication (English Stream)
+DC161   Analytical Science                                                             360         375
+DC162   Chemical and Pharmaceutical Sciences                                           360         410
+DC165   Science International Programme                                                360         405
+DC166   Environmental Science and Health                                               360         390
+DC167   Physics with Astronomy                                                         360         440
+DC168   Genetics and Cell Biology                                                      420         475
+DC171   Applied Physics                                                                350         410
+DC181   Biotechnology                                                                  350         410
+DC191   Electronic Engineering                                                         310         400
+DC192   Information and Communications Engineering                                     325         400
+DC193   Mechatronics Engineering                                                       320         415
+DC195   Mechanical and Manufacturing Engineering                                       275         400
+DC196   Manufacturing Engineering with Business Studies                                360         400
+DC197   Medical Mechanical Engineering                                                 355         435
+DC198   Common Entry to Engineering (Mechanical and Manufacturing)                     250         390
+DC199   Digital Media Engineering                                                      285         400
+DC200   Common Entry to Engineering (Electronic)                                       345         425
+DC201   Common Entry into Science                                                      355         395
+DC202   Sport Science and Health                                                       465         475
+DC203   Science Education                                                              385         400
+DC204   Athletic Therapy and Training                                                  480         495
+DC211   Music Performance at Royal Irish Academy of Music                             310#        510#
+DC215   General Nursing                                                               385*         410
+DC216   Psychiatric Nursing                                                            320         335
+DC217   Intellectual Disability Nursing                                                295         315
+DC225   Mature Applicants General Nursing                                            161#*        165#
+DC226   Mature Applicants Psychiatric Nursing                                         129#        147#
+DC227   Mature Applicants Intellectual Disability Nursing                             129#        155#
+DC230   Economics, Politics and Law                                                    450         470
+DC231   International Relations                                                        420         440
+DC235   Education and Training                                                         320         350
+                                                            Admission data for entry 2005 Level 8
+                                  GALWAY-MAYO IT
+GA144   Gnó agus Cumarsáid                                                       205         330
+GA247   Theological Studies and Business Practice                                265         335
+GA319   Hotel and Catering Management                                            230         310
+GA442   Construction Management                                                  350         375
+GA443   Property Studies                                                         375         400
+GA780   Applied Freshwater and Marine Biology                                    335         375
+GA781   Applied Biology and Biopharmaceutical Science                            280         365
+GA782   Chemical and Pharmaceutical Science                                      275         400
+GA783   Physics and Instrumentation                                              390         390
+GA810   General Nursing (CASTLEBAR)                                             360*         380
+GA811   Mature Applicants General Nursing (CASTLEBAR)                           165#        172#
+GA820   Psychiatric Nursing (CASTLEBAR)                                         325*         335
+GA821   Mature Applicants Psychiatric Nursing (CASTLEBAR)                       151#        162#
+
+                              PORTOBELLO COLLEGE
+PB250   Law                                                                       225        375
+PB251   Accounting and Finance                                                    270        335
+PB253   Business Studies                                                          215        315
+PB254   Marketing                                                                 245        320
+
+                         ROYAL COLLEGE OF SURGEONS
+RC001   Medicine                                                                 575*        580
+RC003   Medicine with Irish Leaving Cert Exam Scholarship                         600        600
+RC004   Physiotherapy                                                            530*        535
+RC005   Pharmacy                                                                 540*        550
+
+                           ST PATRICK'S DRUMCONDRA
+PD101   B. Ed.                                                                    460        485
+PD102   B. Ed. - Gaeltacht Applicants                                             420        455
+PD103   B.A. in Humanities                                                       395*        420
+
+                                    ALL HALLOWS
+AH001   Theology and Philosophy                                                 270#        280#
+AH002   Theology and Psychology                                                 325#        375#
+AH003   Theology and English Literature                                         310#        325#
+
+                                  LETTERKENNY IT                                Final     Median
+LY137   General Nursing                                                          365         385
+LY142   Psychiatric Nursing                                                      305         330
+LY151   Computing with Data Communications                                       280         340
+LY152   Intellectual Disability Nursing                                          250         305
+LY237   Mature Applicants General Nursing                                       180#        183#
+LY242   Mature Applicants Psychiatric Nursing                                   163#        171#
+LY252   Mature Applicants Intellectual Disability Nursing                       165#        168#
+
+                                     LIMERICK IT
+LC331   Software Development                                                      270        305
+LC341   Multimedia Computing with Design                                          300        335
+LC381   Logistics & Supply Chain Management                                       245        315
+LC471   Construction Economics (Quantity Surveying)                               400        415
+LC481   Property Valuation & Management (Valuation Surveying)                     350        370
+LC491   Construction Management                                                   330        355
+LC651   Science (Pharmaceutical & Forensic Analysis)                              405        430
+LC921   Applied Social Studies (Social Care)                                      370        390
+LC931   Business Studies (Tourism)                                                310        330
+LC941   Business Studies (Event Management)                                       320        355
+LC951   Legal Studies & Taxation                                                  360        380
+
+                                  NUI - MAYNOOTH
+MH101   Arts                                                                      370        405
+MH102   Music Technology                                                          440        465
+MH103   Music                                                                       #          #
+MH104   Mathematics                                                               465        505
+MH106   Psychology                                                                510        520
+MH107   Social Science                                                            400        435
+MH108   European Studies                                                          375        430
+MH109   Media Studies                                                             455        485
+MH201   Science                                                                   310        355
+MH202   Biotechnology                                                             330        355
+MH203   Computer Science & Software Engineering                                   325        365
+MH204   Physics with Astrophysics                                                 390        430
+MH206   Theoretical Physics and Mathematics                                       500        550
+MH207   Genetics and Bioinformatics                                               380        440
+MH208   Biological Sciences                                                       400        430
+MH209   Psychology (through Science)                                              480        490
+MH210   Chemistry with Pharmaceutical Chemistry                                   390        430
+MH301   Computer Engineering                                                      345        345
+MH302   Electronic Engineering                                                    320        415
+MH303   Communications Engineering                                                345        345
+                                                             Admission data for entry 2005 Level 8
+MH304   Common entry in Computer, Electronic & Comms Eng                           310        380
+MH401   Finance                                                                    360        380
+MH402   Finance & Venture Management                                               390        395
+MH403   Accounting and Finance                                                     400        425
+                     ST PATRICK'S (PONTIFICAL)-MAYNOOTH
+MU001   Theology and Arts.                                                         330        350
+MU002   Theology                                                                   310        350
+                      SHANNON COLLEGE OF HOTEL MGT
+SN001   Business Studies in International Hotel Management                       450#        555#
+SN002   Commerce - year 4 at NUI, Galway                                         590#        640#
+
+                                      IT SLIGO
+SG141   Business Studies                                                           300        345
+SG145   Computing in Web Development                                               200        305
+SG441   Environmental Science and Technology                                       280        315
+SG445   Pharmaceutical Science                                                     290        330
+SG446   Applied Archaeology                                                        275        320
+
+                                ST ANGELA'S - SLIGO
+AS001   B. Ed. (Home Economics and Biology).                                      460        475
+AS002   B. Ed. (Home Economics and Religious Education - 3rd Language req.)      415*        440
+AS003   B. Ed. (Home Economics and Irish)                                        425*        445
+AS004   B. Ed. (Home Economics and Economics/Consumer Studies)                   425*        440
+AS005   B. Ed. (Home Economics and Religious Education)                          445*        485
+AS110   General Nursing                                                          360*        380
+AS111   Mature Applicants General Nursing                                        166#       173#
+AS130   Intellectual Disability Nursing                                           210        300
+AS131   Mature Applicants Intellectual Disability Nursing                        151#       159#
+                                        IT TRALEE                                Final     Median
+TL110   General Nursing                                                           385*        400
+TL111   Mature Applicants General Nursing                                        157#*       163#
+TL115   Psychiatric Nursing                                                        365        380
+TL116   Mature Applicants Psychiatric Nursing                                     140#       152#
+TL160   Early Childhood Care and Education                                         330        345
+TL170   Folk Theatre Studies                                                      675#       745#
+TL180   Hospitality Management                                                     230        305
+TL280   Business Studies (e-Business)                                              310        345
+TL290   Interactive Multimedia                                                     300        350
+TL330   Computing with Games Development                                           280        330
+TL360   Computing with Multimedia                                                  285        325
+TL370   Computing with Internet Development                                        315        330
+                                  WATERFORD IT
+WD025   Construction Management                                                    300        345
+WD026   Electronics                                                                290        330
+WD027   Music                                                                     300#       345#
+WD028   Applied Computing                                                          300        355
+WD048   Business Studies                                                           315        360
+WD049   Business Studies with French                                               340        390
+WD079   General and Corporate Administration                                       305        345
+WD080   Business Studies with German                                               355        395
+WD084   Accounting                                                                 335        380
+WD085   Manufacturing Systems Engineering                                          275        355
+WD086   Electronic Engineering                                                     375        415
+WD091   Hospitality Management                                                     265        320
+WD095   Marketing                                                                  275        320
+WD116   General Nursing                                                           400*        420
+WD117   Psychiatric Nursing                                                        350        360
+WD120   Intellectual Disability Nursing                                            385        410
+WD123   Languages and Marketing                                                    315        385
+WD124   Health Promotion                                                           310        345
+WD125   Exercise and Health Studies                                                305        340
+WD127   Retail Management                                                          280        325
+WD132   Science (Physics with Computing)                                           270        270
+WD816   Mature Applicants General Nursing                                        171#*       176#
+WD817   Mature Applicants Psychiatric Nursing                                     144#       154#
+WD820   Mature Applicants Intellectual Disability Nursing                         134#       162#
+

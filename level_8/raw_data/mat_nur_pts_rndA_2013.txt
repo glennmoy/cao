@@ -1,0 +1,61 @@
+                                         July 2013 Round A
+                                   Mature Code Nursing/Midwifery
+
+                                                                        Points
+AL831 Mature Applicants General Nursing                                  581
+AL833 Mature Applicants Psychiatric Nursing                              562
+
+AS111 Mature Applicants General Nursing                                  578
+AS131 Mature Applicants Intellectual Disability Nursing                  513
+
+CK711   Mature Applicants General Nursing                                565
+CK713   Mature Applicants Children's and General Nursing (Integrated)    591
+CK721   Mature Applicants Psychiatric Nursing                            555
+CK731   Mature Applicants Intellectual Disability Nursing                531
+CK741   Mature Applicants Midwifery                                      597
+
+DC225   Mature Applicants General Nursing                               559
+DC226   Mature Applicants Psychiatric Nursing                           530*
+DC227   Mature Applicants Intellectual Disability Nursing               510*
+DC228   Mature Applicants Children's and General Nursing (Integrated)   574*
+
+DK871   Mature Applicants General Nursing                               574*
+DK873   Mature Applicants Intellectual Disability Nursing               527
+DK875   Mature Applicants Psychiatric Nursing                           554
+DK878   Mature Applicants Midwifery                                     583
+
+DN460   Mature Applicants General Nursing                               559
+DN461   Mature Applicants Children's and General Nursing (Integrated)   577
+DN462   Mature Applicants Midwifery                                     575
+DN463   Mature Applicants Psychiatric Nursing                           555*
+
+GA881 Mature Applicants General Nursing                                  565
+GA883 Mature Applicants Psychiatric Nursing                              555
+
+GY525 Mature Applicants General Nursing (Galway and Portiuncula)         581
+GY526 Mature Applicants Psychiatric Nursing                              566
+GY527 Mature Applicants Midwifery                                        593
+
+LM151   Mature Applicants General Nursing                               586*
+LM153   Mature Applicants Mental Health Nursing                         573
+LM155   Mature Applicants Intellectual Disability Nursing               569
+LM157   Mature Applicants Midwifery                                     618
+
+LY938 Mature Applicants General Nursing                                  581
+LY948 Mature Applicants Psychiatric Nursing                              555
+LY958 Mature Applicants Intellectual Disability Nursing                  536
+
+TL892 Mature Applicants General Nursing                                  604
+TL893 Mature Applicants Mental Health Nursing                            563
+
+TR092   Mature Applicants General Nursing (Meath and St James's)        561*
+TR094   Mature Applicants General Nursing (Adelaide Sch. of Nursing)    536
+TR096   Mature Applicants Psychiatric Nursing                           523
+TR098   Mature Applicants Intellectual Disability Nursing               503
+TR912   Mature Applicants Children's and General Nursing (Integrated)   589
+TR914   Mature Applicants Midwifery                                     575*
+
+WD816 Mature Applicants General Nursing                                 582
+WD817 Mature Applicants Psychiatric Nursing                             557
+WD820 Mature Applicants Intellectual Disability Nursing                 537*
+

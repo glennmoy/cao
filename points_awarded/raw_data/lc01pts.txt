@@ -1,0 +1,28 @@
+      Leaving Certificate Results Nominal Points score
+             without reference to Eligibility.
+          Best Six(6) subjects to count for scoring.
+
+                   LCE points statistics for 2001 :
+           Total candidates presenting LCE                  : 56,686
+ Total   candidates    scoring   600 points                  :    116 ( 0.2%)
+ Total   candidates    scoring   from 500 - 599 points       : 3,681 ( 6.5%)
+ Total   candidates    scoring   from 400 - 499 points       : 11,147 (19.7%)
+ Total   candidates    scoring   from 300 - 399 points       : 14,395 (25.4%)
+ Total   candidates    scoring   from 200 - 299 points       : 11,554 (20.4%)
+ Total   candidates    scoring   from 100 - 199 points       : 9,106 (16.1%)
+ Total   candidates    scoring   less than 100 points        : 6,687 (11.8%)
+
+                                                                 Cumulative Figures
+Candidates   scoring   600 points       :     116   (    0.2%)        116 ( 0.2%)
+Candidates   scoring   from 550 - 599   :   1,052   (    1.9%)      1,168 ( 2.1%)
+Candidates   scoring   from 500 - 549   :   2,629   (    4.6%)      3,797 ( 6.7%)
+Candidates   scoring   from 450 - 499   :   4,658   (    8.2%)      8,455 ( 14.9%)
+Candidates   scoring   from 400 - 449   :   6,489   (   11.4%)     14,944 ( 26.4%)
+Candidates   scoring   from 350 - 399   :   7,403   (   13.1%)     22,347 ( 39.4%)
+Candidates   scoring   from 300 - 349   :   6,992   (   12.3%)     29,339 ( 51.8%)
+Candidates   scoring   from 250 - 299   :   6,244   (   11.0%)     35,583 ( 62.8%)
+Candidates   scoring   from 200 - 249   :   5,310   (    9.4%)     40,893 ( 72.1%)
+Candidates   scoring   from 150 - 199   :   4,843   (    8.5%)     45,736 ( 80.7%)
+Candidates   scoring   from 100 - 149   :   4,263   (    7.5%)     49,999 ( 88.2%)
+Candidates   scoring   less than 100    :   6,687   (   11.8%)     56,686 (100.0%)
+

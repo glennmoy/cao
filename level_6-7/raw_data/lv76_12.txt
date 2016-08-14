@@ -1,0 +1,496 @@
+                                     ADMISSION DATA 2012
+                                          Level 7/6
+
+               The details given are for general information only and do not form
+               part of any contract. They are not intended for use in determining
+               whether any individual applicant is or is not entitled to an offer of a
+                                     higher education place
+
+    *         Not all on this points score were offered places
+    #         Test / Interview / Portfolio etc.
+   AQA        All qualified applicants
+    v         New competition for Available/Vacant Places
+    +         Includes Project / Portfolio Score
+              Notes: The final points column shows the lowest points score
+              achieved by an applicant who received an offer of a place on the
+              course. The mid point is the points score of the applicant in the
+              middle of a list of offerees placed in points score order. Applicants
+              who are offered places might not necessarily accept a place. In most
+              cases, the points scores shown here are based on performance in
+              the Leaving Certificate. Applicants offered on mature grounds are not
+              accounted for in this chart, with the exception of applicants for
+              Mature Code nursing courses.
+Course Code                       INSTITUTION and COURSE                                 Final Mid point
+                                         ATHLONE IT
+AL601         Electronics and Computer Engineering                                        200       325
+AL602         Mechanical Engineering                                                      200       285
+AL603         Construction Studies                                                        195       280
+AL604         Civil Engineering                                                           240       280
+AL630         Pharmacy Technician                                                         275       365
+AL631         Dental Nursing                                                              325       365
+AL632         Science (Bioscience/Chemistry)                                              130       325
+AL650         Business                                                                    180       315
+AL651         Music and Instrument Technology                                             240       310
+AL652         Business in Equine Studies                                                 AQA        290
+AL653         Office Management                                                           195       240
+AL654         Accounting Technician                                                      AQA        235
+AL655         Social Media Marketing                                                      160       270
+AL660         Culinary Arts                                                               200       270
+AL661         Bar Supervision                                                             170       210
+AL663         Business (Sport and Recreation)                                             250       305
+AL664         Applied Social Studies                                                      310       355
+AL665         Childcare Supervisory Management                                            305       335
+AL702         Electronics and Wireless Communications                                     170       230
+AL703         Computer Network Management                                                 180       220
+AL704         Computer Engineering                                                        190       325
+AL710         Mechanical Engineering                                                      195       280
+AL711         Mechanical Engineering and Renewable Energies                               240       345
+AL712         Mechatronics                                                                255       400
+AL720         Sustainable Construction                                                    270       330
+AL721         Civil Engineering                                                           205       270
+AL730         Biotechnology                                                               185       320
+AL731         Veterinary Nursing                                                         400*       455
+AL732         Environmental Toxicology
+AL733         Forensic Toxicology                                                         200       335
+AL734         Pharmaceutical Science (Drug Development and Analysis)                      225       330
+AL750   Business Computing                                              170   290
+AL760   Spa Management                                                  180   260
+AL761   Hotel and Leisure Management                                    205   260
+AL763   Design (Communications)                                        530+   885
+                                  CARLOW COLLEGE
+PC402   Humanities                                                      210   330
+PC404   Applied Social Studies in Social Care                           220   270
+                                     IT CARLOW
+CW006   Business Studies - Wexford                                      205   270
+CW016   Business Office Management - Wexford                            205   280
+CW017   Applied Social Studies (Professional Social Care) - Wexford     325   375
+CW037   Business - Wexford                                              200   295
+CW057   Art - Wexford - Portfolio                                      700+   700
+CW106   Physiology and Health Science                                   410   475
+CW107   Analytical and Forensic Science                                 275   345
+CW116   Pharmacy Technician Studies                                     270   330
+CW117   Biosciences                                                     280   370
+CW126   Science - Applied Biology or Applied Chemistry                  235   345
+CW206   Computing - (Options: Applications/Commercial Programming/Ne    255   285
+CW207   Software Development                                            275   360
+CW217   Computer Systems Management                                     250   290
+CW406   Civil Engineering                                               210   370
+CW407   Architectural Technology                                        225   340
+CW416   Construction Studies                                            205   270
+CW417   Construction - Buildings and Services Management                220   270
+CW427   Civil Engineering                                               215   275
+CW507   Aircraft Systems                                                305   370
+CW517   Mechanical Engineering                                          275   320
+CW527   Electronic Engineering                                          210   300
+CW547   TV and Media Production                                         305   385
+CW706   Legal Studies                                                   270   350
+CW707   Design in Industrial Design                                     245   370
+CW717   Applied Social Studies - Professional Social Care               300   345
+CW807   Sport and Exercise (GAA) portfolio                             700+   700
+CW817   Sport and Exercise (Rugby) Portfolio                           700+   700
+CW827   Sport and Exercise (Soccer) Portfolio                          700+   700
+CW906   Business Studies                                                210   285
+CW916   Business - Office Management                                    205   245
+CW917   Business                                                        220   340
+CW926   Business with Law                                               250   380
+CW936   Accounting                                                      200   325
+                                       CORK IT
+CR001   Applied Physics & Instrumentation                               295   425
+CR006   Applied Biosciences                                             290   420
+CR007   Analytical and Pharmaceutical Chemistry                         135   415
+CR010   Agriculture                                                     330   395
+CR011   Horticulture                                                   AQA    230
+CR016   Computing                                                       290   360
+CR021   Business Studies                                                250   380
+CR022   Business Administration                                         210   265
+CR023   Accounting                                                      300   470
+CR031   Social Care                                                     370   430
+CR032   Recreation and Leisure                                          330   385
+CR041   Tourism                                                         225   310
+CR042   Hospitality Management                                          240   315
+CR046   Transport Management & Technology                               210   270
+CR051   Civil Engineering                                               225   420
+CR052   Construction                                                    200   290
+CR053   Interior Architecture                                           220   350
+CR061   Electronic Engineering                                          230   415
+CR062   Electrical Engineering                                          240   360
+CR071   Mechanical Engineering                                          255   370
+CR072   Building Services Engineering                                   225   290
+CR075   Biomedical Engineering                                          280   440
+CR090   Architectural Technology                                        230   385
+CR094   Nautical Science - at National Maritime College of Ireland      320   415
+CR095   Marine Engineering - at National Maritime College of Ireland    300   410
+CR300   Science (Level 7 - Common Entry)                                290   460
+CR620   Early Years Education                                           350   430
+CR640   Culinary Arts                                                   300   375
+CR650   Bar Management                                                  240   290
+CR655   Culinary Studies                                                200   275
+CR657   Hospitality Studies                                            AQA    180
+CR805   Marine Electrotechnology - at National Maritime College of I    225   285
+CR888   Information Technology Support                                  250   315
+                             DUBLIN BUSINESS SCHOOL
+DB513   Business                                                        130   215
+DB522   Business in Accounting                                         AQA    260
+DB533   Business in Marketing                                           125   190
+DB563   Cultural Studies                                                105   275
+DB571   Business Studies                                                115   310
+DB572   Business in Accounting                                           60   190
+DB573   Business in Marketing                                          AQA    260
+DB574   Business in Information Technology                             AQA    255
+DB575   Social Studies                                                 AQA    265
+DB576   Film and Media                                                 AQA    280
+DB578   Journalism and Media                                            110   340
+DB580   Legal Studies                                                   105   225
+DB581   Legal and Business Studies                                      170   255
+DB582   Legal Studies                                                  AQA    260
+DB583   Legal and Business Studies                                      100   435
+                        DUBLIN INSTITUTE of TECHNOLOGY
+DT002   Engineering Systems Maintenance                                200    240
+DT003   Automation Engineering                                         260    340
+DT004   Civil Engineering                                              220    360
+DT005   Building Services Engineering                                  180    300
+DT006   Mechanical Engineering                                         230    365
+DT007   Automotive Management and Technology                           250    310
+DT008   Electronics and Communications Engineering                     180    325
+DT009   Electrical and Control Engineering                             200    335
+DT010   Electrical Services Engineering                                180    235
+DT011   Aviation Technology                                            330    390
+DT080   Networking Technologies                                        235    345
+DT097   Engineering (General Entry)                                    320    430
+DT104   Auctioneering Valuation and Estate Agency                      105    260
+DT169   Timber Product Technology                                      240    340
+DT170   Buildings Management (Maintenance and Conservation)            110    245
+DT212   Science - Common 1st Year                                      390    485
+DT259   Biosciences                                           400   475
+DT260   Industrial and Environmental Physics                  240   385
+DT261   Medicinal Chemistry and Pharmaceutical Sciences       350   470
+DT303   Marketing                                             320   395
+DT315   Business Studies                                      310   415
+DT324   Business Management                                   320   415
+DT360   Retail Management and Marketing                       300   355
+DT406   Tourism Management                                    250   330
+DT408   Hospitality Management                                270   335
+DT411   Leisure Management                                    270   330
+DT418   Baking and Pastry Arts Management                     335   420
+DT424   Food Science and Management                           260   365
+DT425   Pharmacy Technician Studies                           340   400
+DT432   Culinary Arts(Professional Culinary Practice)         325   395
+DT444   Health and Nutrition for Culinary Arts                250   340
+DT598   Visual Merchandising and Display                     470#   815
+                                DUN LAOGHAIRE IADT
+DL131   Computing in Multimedia Programming                   300   375
+DL133   Audio Visual Media Technology                         235   340
+DL231   Business Studies - Enterprise                         200   305
+                 GRAFTON COLLEGE of MANAGEMENT SCIENCES
+GF001   Business                                              115   220
+                GRIFFITH COLLEGE DUBLIN, CORK and LIMERICK
+GC210   Marketing (Cork)                                      125    255
+GC211   Business (Cork)                                       145    245
+GC216   Business (Cork)                                      AQA    AQA
+GC220   Office Administration (Cork)                          130    335
+GC265   Journalism (Cork)                                     120    335
+GC316   Business - Limerick                                   185    360
+GC320   Business Administration - Limerick                    250    250
+GC335   Computing - Limerick                                  170    310
+GC340   Computing(Limerick)                                  AQA     185
+GC416   Business (Dublin)                                     110    215
+GC435   Computing (Dublin)                                   AQA     210
+GC440   Computing (Dublin)                                    135    220
+GC465   Journalism (Dublin)                                   105    290
+GC470   Photographic Media (Dublin)                           120    275
+GC475   Certificate in Photography (Dublin)                   105    280
+GC490   Interior Design (Dublin)                              105    300
+GC495   Fashion Design (Dublin) - Portfolio                  290#    410
+             INSTITUTE OF BUSINESS AND TECHNOLOGY, SWORDS
+BY001   Business - at Swords campus                           150   345
+BY051   Business - at Swords campus                           330   420
+BY201   Business - at city centre campus
+BY251   Business - at city centre campus                      235   235
+                               IT BLANCHARDSTOWN
+BN001   Engineering (Electronics and Computer Engineering)    185   250
+BN002   Computing (Information Technology)                    200   250
+BN003   Business                                              180   265
+BN009   Engineering (Mechatronics)                            190   235
+BN010   Business and Information Technology                   180   250
+BN011   Applied Social Studies in Social Care                 360   400
+BN012   Engineering (Computer Engineering)                    180   290
+BN013   Computing (Information Technology)                    200   265
+BN014   Business                                             180    255
+BN015   Engineering (Common 1st Year)                       AQA     235
+BN016   Business (Common 1st Year)                           100    230
+BN017   International Business                               185    320
+BN020   Sports Management and Coaching                       320    365
+BN021   Creative Digital Media                               310    375
+BN022   Horticulture                                         220    265
+BN025   Social and Community Development                     310    340
+BN030   Early Childhood Care                                 330    395
+                                    IT TALLAGHT
+TA006   Culinary Arts                                        265    310
+TA015   International Hospitality and Tourism Management     245    285
+TA101   Accounting                                           200    285
+TA102   Business Administration                              205    255
+TA103   Marketing                                            190    245
+TA111   Accounting                                           200    290
+TA113   Management                                           200    295
+TA114   Marketing                                            200    275
+TA115   Financial Services and Investment Analysis           205    340
+TA201   Electronic Engineering                               120    190
+TA203   Mechanical Engineering                               195    220
+TA213   Mechanical Engineering                               235    320
+TA215   Energy and Environmental Engineering                 205    315
+TA216   Electronic Engineering                               185    335
+TA301   Applied Biology or Applied Chemistry                 260    315
+TA302   Computing                                            255    300
+TA311   Bioanalysis or Chemical Analysis                     265    320
+TA312   Computing                                            280    340
+TA313   Information Technology Management                    235    275
+TA314   Pharmaceutical Science                               310    355
+TA315   DNA and Forensic Science                             360    430
+TA316   Sports Science and Health                            390    435
+                         NATIONAL COLLEGE OF IRELAND
+NC008   Management of Technology in Business                 230    320
+NC102   Computing in Applications and Support                230    280
+NC103   Business                                             200    280
+                             TRINITY COLLEGE DUBLIN
+TR801   Dental Nursing                                       380*   440
+TR802   Dental Hygiene                                      435#*   495
+TR803   Dental Technology                                    390#   435
+                                     DUNDALK IT
+DK650   Culinary Arts                                        215    265
+DK651   Hospitality Studies                                  210    245
+DK685   Agriculture                                          300    355
+DK710   Business Studies - Management and Administration.    145    280
+DK711   Business and Information Systems                     133    295
+DK721   Computing (incorporating 3 award options)            160    290
+DK740   Engineering - Electrical and Electronic Systems     AQA     310
+DK742   Engineering - Mechanical Engineering                 150    305
+DK744   Engineering - Civil Engineering                      150    300
+DK745   Construction Technology                              150    260
+DK750   Business - Hospitality Management                    200    275
+DK752   Business - Event Management                          200    295
+DK762   Communications (Creative Multimedia)                 265    380
+DK763   Community Sports Leadership                                    260*   325
+DK765   Video and Film                                                 300*   370
+DK766   Performing Arts                                                260#   485
+DK767   Community Youth Work                                           300*   365
+DK768   Music and Audio Production                                     330*   395
+DK781   Science - Applied Bioscience                                    250   350
+DK783   Science - Pharmaceutical Science                                200   315
+DK784   Veterinary Nursing                                             375*   420
+                                 GALWAY-MAYO IT
+GA170   Business                                                        240   360
+GA171   Administration and Information Systems                          205   290
+GA172   Rural Enterprise and Agri-Business (Year 1 at Mountbellew)      285   340
+GA270   Art and Design                                                 463+   771
+GA271   Film and Television                                             320   405
+GA272   Heritage Studies                                                190   335
+GA360   Tourism                                                         140   210
+GA361   Culinary Arts                                                   185   280
+GA362   Hospitality Studies                                             140   210
+GA363   Bar Supervision                                                 145   210
+GA370   Hotel and Catering Management                                   145   250
+GA372   Culinary Arts                                                   210   310
+GA373   Bar Management                                                  140   240
+GA374   Tourism Management                                              165   265
+GA375   Retail and Customer Service Management                          155   255
+GA376   Event Management with Public Relations                          265   360
+GA470   Construction Management                                         140   250
+GA471   Construction Economics and Quantity Surveying                   140   265
+GA472   Architectural Technology                                        155   325
+GA473   Civil Engineering                                               165   325
+GA570   Computer and Electronic Engineering                             255   370
+GA572   Computer and Energy Systems                                     255   315
+GA670   Mechanical Engineering                                          305   400
+GA673   Energy Engineering                                              250   365
+GA770   Applied Freshwater and Marine Biology                           360   425
+GA771   Applied Biology and Biopharmaceutical Science                   345   430
+GA772   Chemical and Pharmaceutical Science                             300   365
+GA773   Physics and Instrumentation                                     290   415
+GA774   Science (Undenominated)                                         340   440
+GA775   Computing in Software Development                               290   365
+GA776   Business Computing and Digital Media                            210   305
+GA777   Agriculture and Environmental Mgmt(common 1st yr with GA172)    350   390
+GA869   Business in Computer Applications - Castlebar                   160   245
+GA870   Outdoor Education and Leisure - Castlebar                       220   345
+GA872   Heritage Studies - Castlebar                                    185   305
+GA874   Outdoor Education and Leisure with Geography - Castlebar        230   310
+GA875   Construction Management in Refurbishment and Maintenance - C    170   240
+GA877   Business - Castlebar                                            140   285
+GA878   Accounting and Financial Management - Castlebar                 150   340
+GA879   Applied Social Studies - Castlebar                              275   330
+GA970   Furniture Design and Manufacture - Letterfrack                  320   390
+GA971   Furniture and Wood Technology - Letterfrack                     350   390
+                                 LETTERKENNY IT
+LY106   Business (Accounting & Administration)                         AQA    280
+LY107   Business - Management                                           150   280
+LY117   Administration and Information Technology                    190   280
+LY127   Business - Marketing                                         185   300
+LY206   Sports Studies                                               100   232
+LY207   Law with Criminal Justice/Irish/French/Spanish/German        140   305
+LY306   Hotel Administration                                         125   220
+LY317   Culinary Arts                                                150   270
+LY327   Hotel, Restaurant & Resort Management                        175   245
+LY336   Bar & Restaurant Supervision                                AQA    185
+LY346   Culinary Arts                                               AQA    170
+LY417   Product Design                                               140   280
+LY427   Digital Media Design                                         245   340
+LY437   Animation                                                    140   285
+LY517   Building Services & Renewable Energy                         155   270
+LY527   Civil Engineering                                            155   300
+LY547   Architectural Technology                                     160   295
+LY607   Electronic Engineering                                       175   305
+LY617   Mechanical Engineering                                       140   275
+LY627   Computer Engineering                                         170   245
+LY706   Computing in Technical Support
+LY707   Computer Games Development                                  210    300
+LY717   Computing                                                   140    285
+LY737   Computer Security and Digital Forensics                     145    280
+LY747   Computing with Web & Mobile Apps Development
+LY806   Pharmacy Technician                                         230    300
+LY816   Dental Nursing                                              215    300
+LY817   Bioscience                                                  165    345
+LY826   Applied Agriculture
+LY827   Analytical and Forensic Science                             210    295
+LY837   Food Science and Nutrition                                  225    370
+LY847   Veterinary Nursing                                          380    400
+LY906   Early Childhood Care, Health and Education                  115    260
+LY916   Health and Social Care                                      110    290
+LY917   Health & Social Care                                        320    355
+                 Irish College of Humanities and Applied Sciences
+CI001   Counselling Skills and Psychotherapy Studies                 120   310
+CI002   Counselling Skills and Addiction Studies                     185   330
+CI005   Counselling Skills and Youth Studies                        AQA    280
+CI006   Business
+                                     LIMERICK IT
+LC221   Business (Accounting/Finance)                               255    415
+LC222   Business (Marketing and Management)                         260    385
+LC232   Business Computing                                          180    235
+LC235   Internet Systems Development                                240    370
+LC237   eOffice Administration Systems                              170    265
+LC244   Sustainable Building and Renewable Energy                   185    310
+LC251   Civil Engineering                                           200    345
+LC253   Construction                                                170    210
+LC254   Construction (Health and Safety)                            210    360
+LC255   Construction (Site Management)                              220    315
+LC256   Construction Practice                                       155    245
+LC260   Applied Biology                                             245    400
+LC261   Applied Chemistry                                           180    425
+LC264   Environmental and Chemical Analysis                         165    265
+LC267   Pharmaceutical and Forensic Analysis                        325    420
+LC270   Music Technology and Production                                 340   405
+LC276   Video and Sound Technology                                      270   325
+LC277   Automation and Control Technology                               195   295
+LC278   Renewable and Electrical Energy Systems                         200   325
+LC279   Electronic Engineering                                          220   370
+LC281   Automobile Technology                                           310   360
+LC284   Agricultural Mechanisation - Salesian Agri. College Pallaske    290   345
+LC285   Mechanical Engineering                                          225   355
+LC286   Road Transport Technology and Management                        225   295
+LC296   Front Office Management                                         185   285
+LC298   Culinary Arts                                                   270   350
+LC299   Hospitality Studies                                             245   290
+LC401   Business - Thurles                                              150   295
+LC403   Computing - Thurles                                             145   275
+LC404   Computing - Smart Sustainable Energy - Thurles                  215   325
+LC406   Computing (IT Support) - Thurles                                220   225
+LC409   Computing - Thurles                                             145   195
+LC416   Computing - IT Support - Thurles                                140   235
+LC419   Business - Thurles                                              195   340
+LC423   Sports Strength and Conditioning - Thurles                      265   335
+LC501   Business - Clonmel                                              170   330
+LC504   Information Technology - Creative Multimedia - Clonmel          140   235
+LC505   Business and Office Management - Clonmel                        165   270
+LC511   Marketing - Clonmel                                             145   240
+LC514   Information Technology - Creative Multimedia - Clonmel          230   320
+LC519   Business - Clonmel                                              295   315
+                              UNIVERSITY OF LIMERICK
+LM180   Equine Science                                                  340   420
+                                       IT SLIGO
+SG101   Business                                                       AQA    240
+SG105   Business in Office Administration                              AQA    210
+SG108   Business in Accounting                                         AQA    275
+SG131   Computing - Games Development                                   200   310
+SG134   Recreation and Leisure                                          290   335
+SG135   Business in Tourism with Event Management                       140   255
+SG136   Computing - Software Development                                205   315
+SG137   Computing - Systems and Networking                              145   215
+SG231   Fine Art                                                       695+   785
+SG232   Creative Design and Innovation                                  150   305
+SG301   Engineering in Electrical Installation and Maintenance
+SG331   Interior Design                                                 170   340
+SG332   Advanced Wood and Sustainable Building Technology               145   300
+SG333   Mechanical Engineering                                          155   290
+SG334   Mechatronics                                                    160   300
+SG335   Environmental Engineering                                       185   315
+SG336   Interior Architecture                                           160   335
+SG337   Electronic Engineering                                          140   245
+SG338   Civil Engineering                                               190   315
+SG339   Quantity Surveying                                              150   290
+SG401   Science                                                        AQA    300
+SG431   Pharmaceutical Science                                          190   295
+SG432   Environmental Protection                                        230   335
+SG433   Occupational Safety and Health                                  225   305
+SG435   Health Science and Physiology                                   355   420
+SG436   Biomedical Science                                   250    425
+SG437   Forensic Investigation and Analysis                  260    360
+SG438   Applied Archaeology                                  235    365
+SG439   Energy and Sustainablity                             230    305
+SG531   Marketing - P.R. with Events Management              150    265
+SG532   Marketing with Languages                             165    400
+SG533   Marketing                                            160    275
+SG538   Web Development and Creative Media                   140    235
+                                      IT TRALEE
+TL165   Early Childhood Care and Education                    300   355
+TL186   Travel and Tourism Management                         205   280
+TL187   Adventure Tourism Management                          225   290
+TL190   Applied Social Studies                                325   375
+TL195   Youth and Community Work Practice                     240   280
+TL210   Advanced Business Studies                             405   475
+TL220   Business Studies                                      190   275
+TL315   Computing with Software Development                   245   370
+TL325   Computing with Games Development                      210   310
+TL350   Business Studies (Office Information Systems)         210   275
+TL355   Computing with Multimedia                             225   365
+TL425   Pharmaceutical Analysis with Forensics                245   355
+TL426   Pharmaceutical Analysis with Environmental Science    245   340
+TL430   Science (Biological and Environmental Studies)        245   340
+TL481   Health and Leisure                                    295   385
+TL482   Health and Leisure with Massage                       300   375
+TL501   Culinary Arts                                         135   190
+TL502   Hospitality Studies                                  AQA    160
+TL600   Quantity Surveying
+TL610   Renewable Energy and Energy Management                205   315
+TL621   Civil Engineering                                     175   345
+TL630   Construction                                          120   175
+TL650   Engineering (Agricultural)                            230   300
+TL670   Engineering (Mechanical)                             AQA    205
+TL690   Engineering (Mechanical and Electronic)               235   375
+TL748   Agricultural Science                                  305   365
+                                    WATERFORD IT
+WD003   Business                                             200    295
+WD010   Electronic Engineering                               215    345
+WD011   Mechanical Engineering                               205    280
+WD013   Legal Studies                                        225    310
+WD018   Applied Social Studies in Social Care                300    350
+WD019   Recreation and Sport Management                      290    345
+WD040   Building Services Engineering                        200    305
+WD076   Forestry                                             270    315
+WD078   Agricultural Science                                 380    445
+WD094   Architectural Technology                             215    355
+WD096   Horticulture (Waterford - Kildalton College)         220    305
+WD097   Horticulture (Dublin - National Botanic Gardens)     210    345
+WD126   Agriculture                                          355    415
+WD139   Civil Engineering                                    205    295
+WD151   Software Systems Development                         200    285
+WD153   Multimedia Applications Development                  210    320
+WD155   Information Technology                               210    305
+WD159   Business                                             205    350
+WD164   Food Science with Business   245   345
+WD172   Culinary Arts                210   285
+WD173   Hospitality Studies          215   265
+WD174   Business in Tourism          210   270
+WD175   Pharmaceutical Science       270   375
+WD176   Applied Biology              320   415
+WD177   Science                      320   385
+WD182   Electrical Engineering       200   315
+

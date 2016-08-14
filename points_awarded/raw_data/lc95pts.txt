@@ -1,0 +1,33 @@
+      Leaving Certificate Results Nominal Points score
+             without reference to Eligibility.
+
+         Best Six(6) subjects to count for scoring.
+
+                     LCE points statistics for 1995
+                                    :
+                Total candidates presenting LCE : 68,463
+
+
+                                                                  Cumulative Figures
+Candidates   scoring   600 points       :       31   (    0.0%)        31   ( 0.0%)
+Candidates   scoring   from 500 - 599   :    2,594   (    3.8%)     2,625   ( 3.8%)
+Candidates   scoring   from 400 - 499   :   10,631   (   15.5%)    13,256   ( 19.4%)
+Candidates   scoring   from 300 - 399   :   15,003   (   21.9%)    28,259   ( 41.3%)
+Candidates   scoring   from 200 - 299   :   13,467   (   19.7%)    41,726   ( 60.9%)
+Candidates   scoring   from 100 - 199   :   13,121   (   19.2%)    54,847   ( 80.1%)
+Candidates   scoring   less than 100    :   13,616   (   19.9%)    68,463   (100.0%)
+
+                                                                  Cumulative Figures
+Candidates   scoring   600 points       :     31     (    0.0%)       31   ( 0.0%)
+Candidates   scoring   from 550 - 599   :    585     (    0.9%)      616   ( 0.9%)
+Candidates   scoring   from 500 - 549   : 2,009      (    2.9%)    2,625   ( 3.8%)
+Candidates   scoring   from 450 - 499   : 4,076      (    6.0%)    6,701   ( 9.8%)
+Candidates   scoring   from 400 - 449   : 6,555      (    9.6%)   13,256   ( 19.4%)
+Candidates   scoring   from 350 - 399   : 7,767      (   11.3%)   21,023   ( 30.7%)
+Candidates   scoring   from 300 - 349   : 7,236      (   10.6%)   28,259   ( 41.3%)
+Candidates   scoring   from 250 - 299   : 6,870      (   10.0%)   35,129   ( 51.3%)
+Candidates   scoring   from 200 - 249   : 6,597      (    9.6%)   41,726   ( 60.9%)
+Candidates   scoring   from 150 - 199   : 6,564      (    9.6%)   48,290   ( 70.5%)
+Candidates   scoring   from 100 - 149   : 6,557      (    9.6%)   54,847   ( 80.1%)
+Candidates   scoring   less than 100    : 13,616     (   19.9%)   68,463   (100.0%)
+
