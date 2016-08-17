@@ -47,7 +47,7 @@ def read_course_data():
 
             while n<(len(words)): 
 
-                if "Graduate" in words[n] or "graduate" in words[n]:
+                if "Graduate" in words[n] or "graduate" in words[n] or "Mature" in words[n] or "mature" in words[n]:
                     n+=1
                     break_clause=True
                     break

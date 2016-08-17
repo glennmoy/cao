@@ -47,8 +47,14 @@ def do_regression(x_data,y_data,printyn):
         print "p_value\t=",p_value
         print "std_err\t=",std_err
 
+        f=plt.figure()
+        ax=f.add_subplot(111)
+        textstr = '$y=%.2f+%.2f*x$\n$r=%.2f$'%(intercept, slope, r_value)
+        ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
+
         plt.scatter(x_data,y_data)
         plt.plot(x_data,predicted_y,'r-')
+        plt.savefig('regression.pdf',bbox_inches='tight')
         plt.show()
 
     return slope,intercept,r_value,p_value,res_std_err
@@ -92,8 +98,9 @@ sample_data=sample_data.pivot(index='code',columns='year',values='points').dropn
 sample_data.columns=['2006','2007','2008','2009','2010','2011','2012','2013','2014','2015']
 sample_data.index.name='code'
 
-#auto_regress(sample_data,2010,2012)
-#auto_regress(sample_data,2012,2013)
+#auto_regress(sample_data,2010,2012,True)
+#auto_regress(sample_data,2012,2013,True)
+#auto_regress(sample_data,2010,2015,True)
 
 factor,constant=auto_regress(sample_data,2012,2013,False)
 cao_data_norm=cao_data.copy()
@@ -106,8 +113,8 @@ sample_data_norm=sample_data_norm.pivot(index='code',columns='year',values='poin
 sample_data_norm.columns=['2010','2011','2012','2013','2014','2015']
 sample_data_norm.index.name='code'
 
-#auto_regress(sample_data_norm,2012,2013)
-#auto_regress(sample_data_norm,2010,2015)
+#auto_regress(sample_data_norm,2012,2013,True)
+#auto_regress(sample_data_norm,2010,2015,True)
 
 
 def convert_new_points(points):
@@ -136,13 +143,16 @@ def num_cands_vs_num_courses():
     ax1.set_ylim([50000,57000])
     ax1.set_xticklabels(['2001','2003','2005','2007','2009','2011','2013','2015'])
     ax1.set_xlabel('Year')
+    ax1.set_ylabel('Number of LC Students')
     ax1=num_cands_per_year.num.plot(ax=ax1,marker='s',color=current_palette[1],label='Number of LC Candidates')
     ax2=num_courses_per_year.num.plot(ax=ax2,marker='o',color=current_palette[0],label='Number of L8 Courses',secondary_y=True)
     ax2.set_ylim([300,1000])
+    ax2.set_ylabel('Number of Courses')
     ax=plt.gca()
     lines = ax1.get_lines() + ax2.get_lines()
     ax.legend(lines, [l.get_label() for l in lines],loc='upper center')
-    plt.show() 
+    plt.savefig('num_cands_vs_num_courses.pdf',bbox_inches='tight')
+
 
     # Do a regression on analysis here
     slope,intercept,r_value,p_value,std_err=do_regression(num_cands_per_year.num,num_courses_per_year.num,True)
@@ -158,7 +168,7 @@ def num_cands_vs_num_courses():
 
 '''
 #average points over all courses per year
-q4=""" SELECT year,AVG(points) FROM cao_data_norm GROUP BY year;"""
+q4=""" SELECT year,AVG(points) FROM cao_data GROUP BY year;"""
 av_points_per_year=ps.sqldf(q4,locals())
 av_points_per_year.columns=['year','points']
 
@@ -166,17 +176,19 @@ def num_cands_vs_av_points():
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
     ax2=ax1.twinx()
-    ax1.set_ylim([50000,58000])
+    ax1.set_ylim([50000,59000])
     ax1.set_xticklabels(['2001','2003','2005','2007','2009','2011','2013','2015'])
     ax1.set_xlabel('Year')
+    ax1.set_ylabel('Number of LC Students')
 
     ax1=num_cands_per_year.num.plot(ax=ax1,marker='s',color=current_palette[1],label='Number of LC Candidates')
     ax2=av_points_per_year.points.plot(ax=ax2,marker='^',color=current_palette[2],label='Average Course Points',secondary_y=True)
+    ax2.set_ylabel('Average Cut-off Points')
     ax=plt.gca()
     lines = ax1.get_lines() + ax2.get_lines()
     ax.legend(lines, [l.get_label() for l in lines],loc='upper center')
-    plt.show() 
-
+    plt.savefig('num_cands_vs_av_points.pdf',bbox_inches='tight')
+    
     slope, intercept,r_value,p_value,std_err=do_regression(num_cands_per_year.num,av_points_per_year.points,True)
 
     return
@@ -196,35 +208,52 @@ def num_cands_vs_av_points():
 def histograms_of_points():
     
     #All courses over all years
-    fig=plt.figure()
-    binlist=np.arange(0,1000,50)
-    plt.hist(cao_data_norm.points.dropna(),binlist,color=current_palette[1])
-    plt.xlabel('Cutoff Points')
-    plt.ylabel('Number of Courses')
-    plt.show()
-
     mean_points=cao_data_norm.points.mean()
     std_points=cao_data_norm.points.std()
+
+    fig=plt.figure()
+    ax=fig.add_subplot(111)
+    binlist=np.arange(0,1000,50)
+    plt.hist(cao_data_norm.points.dropna(),binlist,color=current_palette[1])
+    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points, std_points)
+    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
+    plt.xlabel('Cutoff Points')
+    plt.ylabel('Number of Courses')
+    plt.savefig('course_points_hist.pdf',bbox_inches='tight')
+    plt.show()
+
  
     #Courses not requiring audition over all years
+    mean_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.mean()
+    std_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.std()
+
     binlist=np.arange(0,650,50)
+    fig=plt.figure()
+    ax=fig.add_subplot(111)
+    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points_no_aud, std_points_no_aud)
+    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
     plt.hist(cao_data_norm[cao_data_norm.audition==False].points.dropna(),binlist,color=current_palette[3])
     plt.xlabel('Cutoff Points')
     plt.ylabel('Number of Courses')
+    plt.savefig('course_points_hist_600.pdf',bbox_inches='tight')
     plt.show()
     
-    mean_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.mean()
-    std_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.std()
     
     #Candidates points over all years
+    mean_cands=cao_data.points.mean()
+    std_cands=cand_data.points.std()
+
+    fig=plt.figure()
+    ax=fig.add_subplot(111)
     binlist=np.arange(0,700,50)
+    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_cands, std_cands)
+    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
     plt.hist(cand_data.points.dropna(),binlist,weights=cand_data.num,color=current_palette[2])
     plt.xlabel('Points Awarded')
     plt.ylabel('Number of Candidates')
+    plt.savefig('points_awarded_hist.pdf',bbox_inches='tight')
     plt.show()
 
-    mean_cands=cao_data.points.mean()
-    std_cands=cand_data.points.std()
 
 
     print "All points mean: ",mean_points,"\tSTD: ",std_points
@@ -330,30 +359,22 @@ def plot_college_rankings(rankings_df):
     plt.gca().invert_yaxis()            # sort by descending order
    
     # Put the points on the right hand side 
-#    for idx, label in enumerate(list(rankings_df)): 
-#            print idx,label
-#    for idx,line in rankings_df.iterrows():
-            
-#        college=line['college']
-#        m=line['mean']
-#        s=line['std']
-#       print line
-        #print college, m,s
-            #print ax1.patches.tolist()[idx]
-#                print p
-#                mean=p.get_width()
-#                std=round(float(rankings_df['std'][rankings_df['mean']==mean]),2)
-#            ax1.annotate(str(int(mean))+", ("+str(std)+")", (600,p.get_y()+1.2*p.get_height()),fontsize=12)
+    for idx,line in rankings_df.iterrows():
+           
+        for p in ax1.patches:
+            mean=p.get_width()
+            ax1.annotate(str(int(mean)),(600,p.get_y()+1.2*p.get_height()),fontsize=12)
     
     fig=plt.gcf()
     fig.subplots_adjust(left=0.5,right=0.85,top=0.95,bottom=0.08)    # give more space to college names
+    plt.savefig("college_rankings_all.pdf")
     plt.show()
     #print ggplot(av_points_per_college, aes(x='college', weight='points')) + geom_bar(stat='identity')+coord_flip()
     return
 
 # Get college rankings and make sorted graph
 # can specify if auditions or not or by year
-#get_college_rankings(False,2015)
+#get_college_rankings(True,205)
 
 
 '''
@@ -390,23 +411,23 @@ def get_course_rankings(audition,year):
                 course_name.append(code); mean.append(m); std.append(s); desc.append(d)
         else:    
             for code in cao_data_norm['code'][(cao_data_norm['audition']==False)].dropna().unique():
-                m=cao_data_norm['points'][(cao_data_norm['code']==code)].mean()
-                s=cao_data_norm['points'][(cao_data_norm['code']==code)].std()
-                d=cao_data_norm['desc'][cao_data_norm['code']==code].head(1).item()
+                m=cao_data_norm['points'][(cao_data_norm['code']==code) & (cao_data_norm['audition']==False)].mean()
+                s=cao_data_norm['points'][(cao_data_norm['code']==code) & (cao_data_norm['audition']==False)].std()
+                d=cao_data_norm['desc'][(cao_data_norm['code']==code) & (cao_data_norm['audition']==False)].head(1).item()
                 course_name.append(code); mean.append(m); std.append(s); desc.append(d)
         
 
     rankings_df=pd.DataFrame({'code':course_name,'desc':desc,'mean':mean,'std':std})
     rankings_df.columes=['code','desc','mean','std']
 
-    q="""SELECT * FROM rankings_df ORDER BY mean DESC"""
+    q="""SELECT * FROM rankings_df ORDER BY std DESC LIMIT 10"""
     sorted_rankings=ps.sqldf(q,locals())
     sorted_rankings.columns=['code','desc','mean','std']
 
     print sorted_rankings.dropna()
     #plot_course_rankings(sorted_rankings)
 
-#get_course_rankings(False,2015)
+#get_course_rankings(False,201)
 '''
 # Plot course rankings 
 def plot_course_rankings(rankings_df):
@@ -504,30 +525,34 @@ def course_time_series(course,printyn):
 
         print course,"\t",round(lin_reg_pred,0),round(2*std_err,0),"\t",round(auto_reg_pred,0),round(2*std_err_auto,0),"\t",round(ari_pred,0),round(2*std_err_ari,0)
 
-        if(std_err_ari < std_err or std_err_auto < std_err):
-            print "<-" 
-
-    else:        
-        #print course," - (",len(time_series)," years data)"   
-
         return
 
 
-print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
-for course in cao_data['code'][(cao_data['year']==2015)].dropna():
-    course_time_series(course,False)
+#print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
+#for course in cao_data['code'][(cao_data['year']==2015)].dropna():
+#    course_time_series(course,False)
 
-#course='DT572'
-#course_time_series(course,True)
+course='TR071'
+course_time_series(course,True)
 
 
 '''
 7. Time series on different sectors based on key word in description
 '''
+'''
 #Time series for Sectors
-q12="""SELECT year,AVG(points) FROM cao_data WHERE desc LIKE '%Construction%' OR '%Architecture%' GROUP BY year ORDER BY year ASC"""
-time_series_norm=ps.sqldf(q12,locals())
+q12="""SELECT year,AVG(points) FROM cao_data 
+        WHERE desc LIKE '%Information%' OR '%Comput%' OR '%Software%' OR '%Digital%'
+        GROUP BY year ORDER BY year ASC"""
+time_series_norm=ps.sqldf(q12,globals())
 time_series_norm.columns=['year','points']
+
+fig=plt.figure()
+ax=fig.add_subplot(111)
 plt.plot(time_series_norm.year,time_series_norm.points)
 plt.scatter(time_series_norm.year,time_series_norm.points,color=current_palette[2])
-#plt.show()
+ax.set_xlabel('Year')
+ax.set_ylabel('Average Points')
+plt.savefig('industry.pdf',bbox_inches='tight')
+plt.show()
+'''
