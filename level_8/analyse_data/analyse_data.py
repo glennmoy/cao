@@ -76,17 +76,17 @@ def normalise_points(factor,constant):
 #Do auto-regression of 2010 vs 2011
 def auto_regress(df,year1,year2,printyn):
 
-    previous_points=[]
-    present_points=[]
+    old_points=[]
+    new_points=[]
 
     for y in range(year1,year2):  
-        previous_points.extend(df[str(y)].values)
-        present_points.extend(df[str(y+1)].values)
+        old_points.extend(df[str(y)].values)
+        new_points.extend(df[str(y+1)].values)
 
-    previous_points=np.array(previous_points)
-    present_points=np.array(present_points)
+    old_points=np.array(old_points)
+    new_points=np.array(new_points)
 
-    slope, intercept,r_value,p_value,std_err=do_regression(previous_points,present_points,printyn)
+    slope, intercept,r_value,p_value,std_err=do_regression(old_points,new_points,printyn)
 
     return slope,intercept
 
@@ -98,9 +98,7 @@ sample_data=sample_data.pivot(index='code',columns='year',values='points').dropn
 sample_data.columns=['2006','2007','2008','2009','2010','2011','2012','2013','2014','2015']
 sample_data.index.name='code'
 
-#auto_regress(sample_data,2010,2012,True)
 #auto_regress(sample_data,2012,2013,True)
-#auto_regress(sample_data,2010,2015,True)
 
 factor,constant=auto_regress(sample_data,2012,2013,False)
 cao_data_norm=cao_data.copy()
@@ -523,17 +521,29 @@ def course_time_series(course,printyn):
         slope, intercept,r_value,p_value,std_err_ari=do_regression((x1-x2),(y-x1),printyn)
         ari_pred=(time_series.points.values[-1]-time_series.points.values[-2])*slope+intercept+time_series.points.values[-1]
 
-        print course,"\t",round(lin_reg_pred,0),round(2*std_err,0),"\t",round(auto_reg_pred,0),round(2*std_err_auto,0),"\t",round(ari_pred,0),round(2*std_err_ari,0)
+#        print course,"\t",round(lin_reg_pred,0),round(2*std_err,0),"\t",round(auto_reg_pred,0),round(2*std_err_auto,0),"\t",round(ari_pred,0),round(2*std_err_ari,0)
 
-        return
+        return round(lin_reg_pred,0),round(2*std_err,0),round(auto_reg_pred,0),round(2*std_err_auto,0),round(ari_pred,0),round(2*std_err_ari,0)
+
+    else:
+        return 0,0,0,0,0,0
 
 
-#print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
-#for course in cao_data['code'][(cao_data['year']==2015)].dropna():
-#    course_time_series(course,False)
+print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
+f = csv.writer(open("predictions_2016.csv", "wb+"))
+for course in cao_data['code'][(cao_data['year']==2015)].dropna():
 
-course='TR071'
-course_time_series(course,True)
+    lin_reg=0
+    lin_reg,lr_err,ar,ar_err,arima,arima_err=course_time_series(course,False)
+
+    if lin_reg!=0:
+        f.writerow([course,lin_reg,lr_err,ar,ar_err,arima,arima_err])
+    
+    
+f.close() 
+
+#course='TR071'
+#course_time_series(course,True)
 
 
 '''
