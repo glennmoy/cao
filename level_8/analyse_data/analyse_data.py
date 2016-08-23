@@ -54,7 +54,7 @@ def do_regression(x_data,y_data,printyn):
 
         plt.scatter(x_data,y_data)
         plt.plot(x_data,predicted_y,'r-')
-        plt.savefig('regression.png',bbox_inches='tight')
+        plt.savefig('regression.pdf',bbox_inches='tight')
         plt.show()
 
     return slope,intercept,r_value,p_value,res_std_err
@@ -98,7 +98,7 @@ sample_data=sample_data.pivot(index='code',columns='year',values='points').dropn
 sample_data.columns=['2006','2007','2008','2009','2010','2011','2012','2013','2014','2015']
 sample_data.index.name='code'
 
-auto_regress(sample_data,2010,2015,True)
+#auto_regress(sample_data,2010,2012,True)
 
 factor,constant=auto_regress(sample_data,2012,2013,False)
 cao_data_norm=cao_data.copy()
@@ -112,7 +112,7 @@ sample_data_norm.columns=['2010','2011','2012','2013','2014','2015']
 sample_data_norm.index.name='code'
 
 #auto_regress(sample_data_norm,2012,2013,True)
-auto_regress(sample_data_norm,2010,2015,True)
+#auto_regress(sample_data_norm,2010,2015,True)
 
 
 def convert_new_points(points):
@@ -166,7 +166,7 @@ def num_cands_vs_num_courses():
 
 '''
 #average points over all courses per year
-q4=""" SELECT year,AVG(points) FROM cao_data GROUP BY year;"""
+q4=""" SELECT year,AVG(points) FROM cao_data_norm GROUP BY year;"""
 av_points_per_year=ps.sqldf(q4,locals())
 av_points_per_year.columns=['year','points']
 
@@ -180,12 +180,14 @@ def num_cands_vs_av_points():
     ax1.set_ylabel('Number of LC Students')
 
     ax1=num_cands_per_year.num.plot(ax=ax1,marker='s',color=current_palette[1],label='Number of LC Candidates')
-    ax2=av_points_per_year.points.plot(ax=ax2,marker='^',color=current_palette[2],label='Average Course Points',secondary_y=True)
-    ax2.set_ylabel('Average Cut-off Points')
+    #ax2=av_points_per_year.points.plot(ax=ax2,marker='^',color=current_palette[2],label='Average Course Points',secondary_y=True)
+    ax2=av_points_per_year.points.plot(ax=ax2,marker='>',color=current_palette[5],label='Average Course Points (Normalised)',secondary_y=True)
+    ax2.set_ylabel('Average Cut-off Points (Normalised)')
+    ax2.set_ylim([350,395])
     ax=plt.gca()
     lines = ax1.get_lines() + ax2.get_lines()
     ax.legend(lines, [l.get_label() for l in lines],loc='upper center')
-    plt.savefig('num_cands_vs_av_points.pdf',bbox_inches='tight')
+    plt.savefig('num_cands_vs_av_points_norm.pdf',bbox_inches='tight')
     
     slope, intercept,r_value,p_value,std_err=do_regression(num_cands_per_year.num,av_points_per_year.points,True)
 
@@ -365,14 +367,14 @@ def plot_college_rankings(rankings_df):
     
     fig=plt.gcf()
     fig.subplots_adjust(left=0.5,right=0.85,top=0.95,bottom=0.08)    # give more space to college names
-    plt.savefig("college_rankings_all.pdf")
+    plt.savefig("college_rankings.pdf")
     plt.show()
     #print ggplot(av_points_per_college, aes(x='college', weight='points')) + geom_bar(stat='identity')+coord_flip()
     return
 
 # Get college rankings and make sorted graph
 # can specify if auditions or not or by year
-#get_college_rankings(True,205)
+#get_college_rankings(False,205)
 
 
 '''
@@ -418,14 +420,15 @@ def get_course_rankings(audition,year):
     rankings_df=pd.DataFrame({'code':course_name,'desc':desc,'mean':mean,'std':std})
     rankings_df.columes=['code','desc','mean','std']
 
-    q="""SELECT * FROM rankings_df ORDER BY std DESC LIMIT 10"""
+    q="""SELECT * FROM rankings_df ORDER BY mean DESC LIMIT 20"""
     sorted_rankings=ps.sqldf(q,locals())
     sorted_rankings.columns=['code','desc','mean','std']
 
     print sorted_rankings.dropna()
     #plot_course_rankings(sorted_rankings)
 
-#get_course_rankings(False,201)
+get_course_rankings(False,201)
+
 '''
 # Plot course rankings 
 def plot_course_rankings(rankings_df):
