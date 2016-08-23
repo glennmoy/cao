@@ -427,7 +427,7 @@ def get_course_rankings(audition,year):
     print sorted_rankings.dropna()
     #plot_course_rankings(sorted_rankings)
 
-get_course_rankings(False,201)
+#get_course_rankings(False,201)
 
 '''
 # Plot course rankings 
@@ -531,7 +531,6 @@ def course_time_series(course,printyn):
     else:
         return 0,0,0,0,0,0
 
-'''
 print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
 f = csv.writer(open("predictions_2016.csv", "wb+"))
 for course in cao_data['code'][(cao_data['year']==2015)].dropna():
@@ -541,7 +540,6 @@ for course in cao_data['code'][(cao_data['year']==2015)].dropna():
 
     if lin_reg!=0:
         f.writerow([course,lin_reg,lr_err,ar,ar_err,arima,arima_err])
-'''    
     
 
 #course='CK203'
