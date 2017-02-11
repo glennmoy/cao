@@ -1,13 +1,23 @@
+#########################################################################
+#  Compile the .dat files for each year into one .csv DataFrame.        #
+#               Written by Glenn Moynihan August 2016                   #
+#                       Updated February 2017                           #
+#########################################################################
+
 import pandas as pd
 import numpy as np
 from ggplot import *
 import csv
 import json
-   
+
+'''
+This script is very messy as I ammended it to deal with problems as 
+they arose. Proceed with caution.
+'''
+
 def read_course_data():
-    '''
-    Create nested dictionary of year:code:points:interview
-    '''
+
+    #Create nested dictionary of year:code:points:interview
     course_dict={}
     college_dict={}
     
@@ -20,7 +30,7 @@ def read_course_data():
 
     #Now load in Course codes, descriptions and points 
     #Loop over all years    
-    for year in range(2001,2016):
+    for year in range(2001,2017):
         courses={}
 
         #Open file and loop over all courses
@@ -35,7 +45,6 @@ def read_course_data():
             #Course code is always first element
             code=words[0]
 
-    
             #Look up college name in dictionary using course code
             try:
                 college=college_dict[code[:2]]
@@ -47,11 +56,13 @@ def read_course_data():
 
             while n<(len(words)): 
 
+                # If it's a graduate course we skip it
                 if "Graduate" in words[n] or "graduate" in words[n] or "Mature" in words[n] or "mature" in words[n]:
                     n+=1
                     break_clause=True
                     break
 
+                # If a Portfolio, Audition or Interview is required we flag it
                 if "Portfolio" in words[n] or "portfolio" in words[n]\
                 or "Audition" in words[n] or "audition" in words[n]\
                 or "Interview" in words[n] or "interview" in words[n]:
@@ -59,14 +70,14 @@ def read_course_data():
                     audition=True
                     continue
 
-                #If word is a number then its the points
+                #If word is a number then it's likely the points
                 try:
                     p=int(words[n].replace("*","").replace("#",""))
 
-                    # For some reason courses are listed as 999
+                    # For some reason some courses are listed as 999
                     if p==999:
                         points=np.nan
-                    elif  p>10 and p<=1200:
+                    elif  p>60 and p<=1200:
                         points=p
  
                         #if # appears in points then audition is required
@@ -109,7 +120,7 @@ def read_course_data():
     points_df.to_csv("course_points.csv",sep='\t')
     points_df.to_json("course_points.json")
     
-    #Convert dataframe to column format
+    #Convert dataframe to human readable format
     f = csv.writer(open("course_points_col.csv", "wb+"))
     f.writerow(["code", "year", "points", "college", "audition","desc"])
 

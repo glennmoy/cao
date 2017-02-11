@@ -1,0 +1,30 @@
+Leaving Certificate Results Nominal Points score without reference to Eligibility.
+
+                    Best six(6) subjects to count for scoring.
+
+                          LCE points statistics for 2006.
+
+
+
+LCE Points Statistics for 2006 : Candidates : 50,955   Cumulative Figures
+ Candidates scoring 600 points     :    149   ( 0.3%)      149   ( 0.3%)
+ Candidates scoring from 500 - 599 : 4,131    ( 8.1%)    4,280   ( 8.4%)
+ Candidates scoring from 400 - 499 : 10,649   ( 20.9%) 14,929    ( 29.3%)
+ Candidates scoring from 300 - 399 : 12,599   ( 24.7%) 27,528    ( 54.0%)
+ Candidates scoring from 200 - 299 : 9,875    ( 19.4%) 37,403    ( 73.4%)
+ Candidates scoring from 100 - 199 : 7,638    ( 15.0%) 45,041    ( 88.4%)
+ Candidates scoring less than 100 : 5,914     ( 11.6%) 50,955    (100.0%)
+                                                        Cumulative Figures
+ Candidates scoring 600 points     :    149   ( 0.3%)      149   ( 0.3%)
+ Candidates scoring from 550 - 599 : 1,290    ( 2.5%)    1,439   ( 2.8%)
+ Candidates scoring from 500 - 549 : 2,841    ( 5.6%)    4,280   ( 8.4%)
+ Candidates scoring from 450 - 499 : 4,737    ( 9.3%)    9,017   ( 17.7%)
+ Candidates scoring from 400 - 449 : 5,912    ( 11.6%) 14,929    ( 29.3%)
+ Candidates scoring from 350 - 399 : 6,510    ( 12.8%) 21,439    ( 42.1%)
+ Candidates scoring from 300 - 349 : 6,089    ( 11.9%) 27,528    ( 54.0%)
+ Candidates scoring from 250 - 299 : 5,293    ( 10.4%) 32,821    ( 64.4%)
+ Candidates scoring from 200 - 249 : 4,582    ( 9.0%) 37,403     ( 73.4%)
+ Candidates scoring from 150 - 199 : 4,115    ( 8.1%) 41,518     ( 81.5%)
+ Candidates scoring from 100 - 149 : 3,523    ( 6.9%) 45,041     ( 88.4%)
+ Candidates scoring less than 100 : 5,914     ( 11.6%) 50,955    (100.0%)
+

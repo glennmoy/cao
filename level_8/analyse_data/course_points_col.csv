@@ -1,4 +1,906 @@
 code,year,points,college,audition,desc
+CK118,2016,375, University College Cork (NUI),False, Digital Humanities and Information Tech or y
+CK111,2016,395, University College Cork (NUI),False, Early Years and Childhood Studies
+CK110,2016,470, University College Cork (NUI),False, World Languages
+CK113,2016,435, University College Cork (NUI),False, Criminology years or years International Pa
+CK112,2016,365, University College Cork (NUI),True, Drama and Theatre Studies years or years In
+CK114,2016,nan, University College Cork (NUI),False," Social Science Youth and Community Work year 
+"
+CK117,2016,430, University College Cork (NUI),False, Economics Transformational Learning or yea
+CK116,2016,490, University College Cork (NUI),False, Sports Studies and Physical Education
+MH108,2016,340, Maynooth University,False, European Studies
+WD140,2016,300, Waterford Institute of Technology,False, Laws
+WD147,2016,350, Waterford Institute of Technology,False, Pharmaceutical Science
+AC120,2016,255, American College,False, International Business
+GY101,2016,300, National University of Ireland Galway,False, Arts Joint Honours Degree
+DN650,2016,500, University College Dublin (NUI),False, Commerce
+WD148,2016,285, Waterford Institute of Technology,False, Tourism Marketing
+GY203,2016,480, National University of Ireland Galway,False, Commerce International with German
+GY202,2016,480, National University of Ireland Galway,False, Commerce International with French
+CR510,2016,310, Cork Institute of Technology,False, Sustainable Energy
+BN118,2016,300, Institute of Technology Blanchardstown,False, Early Childhood Care and Education
+GY207,2016,460, National University of Ireland Galway,False, Commerce Accounting
+GY206,2016,430, National University of Ireland Galway,False, Business Information Systems
+CW078,2016,320, Institute of Technology Carlow,False, Sustainable Farm Management and Agribusiness Wexf
+GY204,2016,480, National University of Ireland Galway,False, Commerce International with Spanish
+BN113,2016,255, Institute of Technology Blanchardstown,False, Horticulture
+BN112,2016,300, Institute of Technology Blanchardstown,False, Creative Digital Media
+BN111,2016,310, Institute of Technology Blanchardstown,False, Sports Management and Coaching
+BN110,2016,255, Institute of Technology Blanchardstown,False, International Business
+BN117,2016,325, Institute of Technology Blanchardstown,False, Computer Engineering in Mobile Systems
+SG442,2016,295, Institute of Technology Sligo,False, Occupational Safety and Health
+BN115,2016,305, Institute of Technology Blanchardstown,False, Community and Youth Development
+BN114,2016,300, Institute of Technology Blanchardstown,False, Accounting and Finance
+MH109,2016,340, Maynooth University,False, Media Studies Media Technology Digital Media
+LM120,2016,400, University of Limerick,False, Aircraft Maintenance and Airworthiness Engineering
+GY414,2016,445, National University of Ireland Galway,False, Electrical and Electronic Engineering
+LM053,2016,430, University of Limerick,False, Business Studies with a Modern Language German
+GY413,2016,425, National University of Ireland Galway,False, Energy Systems Engineering
+GY410,2016,355, National University of Ireland Galway,False, Project and Construction Management
+MH101,2016,330, Maynooth University,False, Arts
+MH103,2016,nan, Maynooth University,False," Music 
+"
+AD212,2016,nan, National College of Art and Design,False," Product Design #matric #matric 
+"
+AD215,2016,325, National College of Art and Design,False, Visual Culture
+MH107,2016,375, Maynooth University,False, Social Science
+MH106,2016,485, Maynooth University,False, Psychology
+LY208,2016,290, Letterkenny Institute of Technology,False, Law
+LM058,2016,435, University of Limerick,False, Financial Mathematics
+LM051,2016,380, University of Limerick,False, Computer Systems
+CR333,2016,380, Cork Institute of Technology,False, Nutrition and Health Science
+CR330,2016,340, Cork Institute of Technology,False, Herbal Science
+LM052,2016,430, University of Limerick,False, Business Studies with a Modern Language French
+LM055,2016,425, University of Limerick,False, Business Studies with a Modern Language Japanese
+CR335,2016,400, Cork Institute of Technology,False, Biological Sciences Common Entry
+CW438,2016,260, Institute of Technology Carlow,False, Construction
+LC411,2016,280, Limerick Institute of Technology,False, Business Marketing and Management Thurles
+GA785,2016,445, Galway-Mayo Institute of Technology,False, Medical Science
+DT175,2016,365, Dublin Institute of Technology,False, Architectural Technology
+CW208,2016,290, Institute of Technology Carlow,False, Computer Games Development
+LY978,2016,275, Letterkenny Institute of Technology,False, Health Social Care
+LC418,2016,265, Limerick Institute of Technology,False, Computing Games Design and Development Thurles
+DC239,2016,345, Dublin City University,False, Gaeilge agus IriseoireachtIrish and Journalism
+DC238,2016,345, Dublin City University,False, Contemporary Culture and Society
+TL851,2016,300, Institute of Technology Tralee,False, Wildlife Biology
+DC235,2016,315, Dublin City University,False, Education and Training Daytime or Flexible Deliv
+GY119,2016,410, National University of Ireland Galway,False, Arts with Journalism
+DC232,2016,450, Dublin City University,False, Law and Society BCL
+DC231,2016,385, Dublin City University,False, International Relations
+DC230,2016,400, Dublin City University,False, Economics Politics and Law
+DK821,2016,300, Dundalk Institute of Technology,False, Computing
+CW858,2016,700, Institute of Technology Carlow,True, Sport Management and Coaching Options GAA Rugby
+DC012,2016,370, Dublin City University,True, Post Primary Teacher Education Religious Educati
+DC011,2016,380, Dublin City University,False, Post Primary Teacher Education Religious Educati
+DC010,2016,400, Dublin City University,False, Post Primary Teacher Education Religious Educati
+LC252,2016,250, Limerick Institute of Technology,False, Civil Engineering Management
+GC434,2016,240, Griffith College,False, Computing Science Games Development Dublin
+MH202,2016,415, Maynooth University,False, Biotechnology
+MH201,2016,390, Maynooth University,False, Science
+MH206,2016,505, Maynooth University,False, Theoretical Physics and Mathematics
+MH204,2016,435, Maynooth University,False, Physics with Astrophysics
+AL801,2016,300, Athlone Institute of Technology,False, Software Design Game Development or Cloud Computi
+MH208,2016,465, Maynooth University,False, Biological and Biomedical Sciences
+MH209,2016,480, Maynooth University,False, Psychology through Science
+WD149,2016,290, Waterford Institute of Technology,False, Early Childhood Studies
+TR054,2016,520, Trinity College,False, Occupational Therapy
+TR055,2016,515, Trinity College,False, Radiation Therapy
+CW728,2016,300, Institute of Technology Carlow,False, Product Design Innovation
+DT399,2016,445, Dublin Institute of Technology,False, Economics and Finance
+DT398,2016,375, Dublin Institute of Technology,False, Human Resource Management
+TR052,2016,585, Trinity College,False, Dental Science
+TR053,2016,535, Trinity College,False, Physiotherapy
+GC431,2016,240, Griffith College,False, Computing Science Cloud Computing Dublin
+TR085,2016,530, Trinity College,False, Business Studies and French
+WD027,2016,310, Waterford Institute of Technology,True, Music
+GC450,2016,225, Griffith College,False, Journalism and Visual Media Dublin
+CR700,2016,800, Cork Institute of Technology,True, Theatre and Drama Studies at CIT Cork School of Mu
+DT557,2016,400, Dublin Institute of Technology,False, International Business and Languages Spanish
+DT556,2016,400, Dublin Institute of Technology,False, International Business and Languages German
+DT555,2016,400, Dublin Institute of Technology,False, International Business and Languages French
+DT412,2016,290, Dublin Institute of Technology,False, Tourism Marketing
+DT413,2016,365, Dublin Institute of Technology,False, Event Management
+DT559,2016,765, Dublin Institute of Technology,True, Photography
+DT416,2016,290, Dublin Institute of Technology,False, Culinary Entrepreneurship
+DT417,2016,280, Dublin Institute of Technology,False, Bar Studies Management and Entrepreneurship
+TR082,2016,505, Trinity College,False, Computer Science and Business
+TR081,2016,510, Trinity College,False, Business Economic and Social Studies BESS
+BN119,2016,310, Institute of Technology Blanchardstown,False, Digital Marketing
+DC162,2016,490, Dublin City University,False, Chemical and Pharmaceutical Sciences
+DC161,2016,470, Dublin City University,False, Analytical Science
+DC167,2016,415, Dublin City University,False, Physics with Astronomy
+DC166,2016,425, Dublin City University,False, Environmental Science and Health
+DC168,2016,485, Dublin City University,False, Genetics and Cell Biology
+SG449,2016,350, Institute of Technology Sligo,False, Medical Biotechnology
+ID001,2016,nan, ICD Business School,False," Accounting and Finance 
+"
+SG448,2016,378, Institute of Technology Sligo,False, Forensic Investigation and Analysis
+LM088,2016,475, University of Limerick,False, Mathematics and Physics
+DB569,2016,235, Dublin Business School & DBS School of Arts,False, Business Psychology
+TL855,2016,367, Institute of Technology Tralee,False, Pharmaceutical Science
+SG447,2016,330, Institute of Technology Sligo,False, Health Science and Physical Activity
+DN440,2016,550, University College Dublin (NUI),False, Biomedical Health and Life Sciences
+DT302,2016,360, Dublin Institute of Technology,False, Business Analytics
+DN271,2016,nan, University College Dublin (NUI),False," Forestry AQA 
+"
+DN272,2016,nan, University College Dublin (NUI),False," Horticulture Landscape and Sportsturf Management AQA AQA 
+"
+SG446,2016,300, Institute of Technology Sligo,False, Applied Archaeology
+GY209,2016,500, National University of Ireland Galway,False, Commerce Global Experience
+WD144,2016,305, Waterford Institute of Technology,False, Architecture
+GY208,2016,395, National University of Ireland Galway,False, Commerce Gaeilge
+SG443,2016,380, Institute of Technology Sligo,False, Human Nutrition
+TA023,2016,235, Institute of Technology Tallaght,False, Advertising and Marketing Communications
+CI108,2016,315, Irish College of Humanities & Applied Sciences,False, Counselling and Addiction Studies Limerick
+SG441,2016,330, Institute of Technology Sligo,False, Environmental Science
+LC265,2016,355, Limerick Institute of Technology,False, Pharmaceutical and Forensic Analysis
+CW038,2016,700, Institute of Technology Carlow,True, Art Wexford
+CI107,2016,255, Irish College of Humanities & Applied Sciences,False, Counselling and Youth Studies Limerick
+DN450,2016,420, University College Dublin (NUI),False, General Nursing
+DN451,2016,485, University College Dublin (NUI),False, Childrens and General Nursing Integrated
+DN452,2016,480, University College Dublin (NUI),False, Midwifery
+DN453,2016,385, University College Dublin (NUI),False, Mental Health Nursing
+AS130,2016,350, St. Angela`s College,False, Intellectual Disability Nursing
+MI009,2016,340, Mary Immaculate College,False, Education Business Studies and Accounting Thurle
+MI008,2016,545, Mary Immaculate College,False, Education and Psychology Primary Teaching
+MI007,2016,375, Mary Immaculate College,False, Early Childhood Care and Education
+MI006,2016,430, Mary Immaculate College,True, Education Primary Teaching Gaeltacht Applicant
+MI005,2016,465, Mary Immaculate College,False, Education Primary Teaching
+MI004,2016,330, Mary Immaculate College,False, Liberal Arts
+MI001,2016,280, Mary Immaculate College,True, Contemporary Applied Theatre Studies Works
+GY517,2016,440, National University of Ireland Galway,False, Midwifery
+GY516,2016,410, National University of Ireland Galway,False, Psychiatric Nursing
+GY515,2016,445, National University of Ireland Galway,False, General Nursing Galway and Portiuncula
+GA186,2016,290, Galway-Mayo Institute of Technology,False, Business with Entrepreneurship
+TA327,2016,365, Institute of Technology Tallaght,False, Sports Science and Health
+TA326,2016,300, Institute of Technology Tallaght,False, DNA and Forensic Analysis
+CW478,2016,395, Institute of Technology Carlow,False, Civil Engineering
+TL891,2016,405, Institute of Technology Tralee,False, Mental Health Nursing
+TA322,2016,250, Institute of Technology Tallaght,False, Computing Options Software IT Management Data
+TA321,2016,280, Institute of Technology Tallaght,False, Pharmaceutical Science
+GY109,2016,435, National University of Ireland Galway,False, Arts Mathematics and Education
+GA981,2016,250, Galway-Mayo Institute of Technology,False, Furniture Design and Manufacture Letterfrack Cam
+CW578,2016,365, Institute of Technology Carlow,False, TV and Media Production
+GA187,2016,300, Galway-Mayo Institute of Technology,False, Business in Rural Enterprise and AgriBusiness Mo
+CW248,2016,300, Institute of Technology Carlow,False, Computer Systems Management
+GY103,2016,320, National University of Ireland Galway,False, Arts Public and Social Policy
+GY104,2016,495, National University of Ireland Galway,False, Arts Psychology
+GY105,2016,310, National University of Ireland Galway,False, Arts History
+TR024,2016,535, Trinity College,False, European Studies
+MH102,2016,325, Maynooth University,False, Music Technology
+DT235,2016,330, Dublin Institute of Technology,False, Physics with Medical Physics and Bioengineering
+CM020,2016,345, Marino Institute of Education,False, Early Childhood Education
+CW088,2016,265, Institute of Technology Carlow,False, Visual Communications and Design Wexford
+TL820,2016,300, Institute of Technology Tralee,False, Travel and Tourism Management
+CR560,2016,300, Cork Institute of Technology,False, Architectural Technology
+CR565,2016,315, Cork Institute of Technology,False, Interior Architecture
+TA021,2016,235, Institute of Technology Tallaght,False, European Studies
+TA022,2016,235, Institute of Technology Tallaght,False, Creative Digital Media
+CR340,2016,305, Cork Institute of Technology,False, Analytical Chemistry with Quality Assurance
+TA025,2016,300, Institute of Technology Tallaght,False, Social Care Practice
+TA026,2016,200, Institute of Technology Tallaght,False, International Hospitality and Tourism Management
+GC462,2016,320, Griffith College,True, Design Communication Dublin
+DK890,2016,300, Dundalk Institute of Technology,False, Multimedia Web Development
+LY228,2016,250, Letterkenny Institute of Technology,False, Sports Coaching and Performance
+CK704,2016,525, University College Cork (NUI),False, Occupational Therapy
+DC291,2016,385, Dublin City University,False, Arts Joint Honours Media Studies
+CK705,2016,515, University College Cork (NUI),False, Speech and Language Therapy
+DC293,2016,390, Dublin City University,False, Arts Joint Honours International Languages
+DC292,2016,385, Dublin City University,False, Arts Joint Honours Law
+DC295,2016,385, Dublin City University,False, Arts Joint Honours Politics
+DC294,2016,390, Dublin City University,False, Arts Joint Honours Gaeilge
+CK702,2016,585, University College Cork (NUI),False, Dentistry
+CK703,2016,565, University College Cork (NUI),False, Pharmacy
+DT517,2016,335, Dublin Institute of Technology,False, Languages and English Studies
+TR019,2016,545, Trinity College,False, Law and German
+GA181,2016,300, Galway-Mayo Institute of Technology,False, Accounting
+TR012,2016,535, Trinity College,False, History and Political Science
+GA183,2016,300, Galway-Mayo Institute of Technology,False, Business Information Systems
+GA184,2016,300, Galway-Mayo Institute of Technology,False, Business in Marketing and Sales
+TR015,2016,555, Trinity College,False, Philosophy Political Science Economics and Socio
+DT519,2016,305, Dublin Institute of Technology,False, Languages and International Tourism German
+DT518,2016,315, Dublin Institute of Technology,False, Languages and International Tourism French
+LY908,2016,410, Letterkenny Institute of Technology,False, General Nursing
+LM099,2016,420, University of Limerick,True, Architecture
+DT282,2016,350, Dublin Institute of Technology,False, Computer ScienceInternational
+LM050,2016,425, University of Limerick,False, Business Studies
+LM095,2016,395, University of Limerick,False, Materials and Engineering Technology with Teacher
+LM094,2016,415, University of Limerick,False, Materials and Architectural Technology with Teache
+LM096,2016,420, University of Limerick,False, Science with Teacher Ed Physical Sciences with Ch
+CR660,2016,265, Cork Institute of Technology,False, Tourism
+GA380,2016,255, Galway-Mayo Institute of Technology,False, Hotel and Catering Management
+LM093,2016,360, University of Limerick,False, Equine Science
+LM092,2016,480, University of Limerick,False, Science with Teacher Ed Biology with Phys or Chem
+DC127,2016,500, Dublin City University,False, Common Entry into Actuarial and Financial Mathemat
+DC126,2016,515, Dublin City University,False, Actuarial Mathematics
+DC123,2016,nan, Dublin City University,False," Data Science 
+"
+DC122,2016,345, Dublin City University,True, Computational ProblemSolving and Software Develop
+DC121,2016,400, Dublin City University,False, Computer Applications
+DC120,2016,370, Dublin City University,False, Enterprise Computing
+MH002,2016,nan, Maynooth University,False," Education Primary Teaching Gaeltacht Applicant 
+"
+GA980,2016,380, Galway-Mayo Institute of Technology,False, Education Design Graphics and Construction Let
+AL830,2016,425, Athlone Institute of Technology,False, General Nursing
+GA982,2016,265, Galway-Mayo Institute of Technology,False, Furniture and Wood Technology Letterfrack Campus
+AL832,2016,375, Athlone Institute of Technology,False, Psychiatric Nursing
+CW198,2016,400, Institute of Technology Carlow,False, Strength and Conditioning
+AL837,2016,360, Athlone Institute of Technology,False, Sports Science with Exercise Physiology
+AL836,2016,350, Athlone Institute of Technology,False, Health Science with Nutrition
+GC305,2016,245, Griffith College,False, International Hospitality Management Limerick
+LM056,2016,505, University of Limerick,False, International Business
+GC300,2016,260, Griffith College,False, Business Studies Limerick
+AS004,2016,420, St. Angela`s College,False, Education Home Economics and Economics with concu
+AS001,2016,485, St. Angela`s College,False, Education Home Economics and Biology with concurr
+AS003,2016,445, St. Angela`s College,False, Education Home Economics and Irish with concurren
+AS002,2016,435, St. Angela`s College,False, Education Home Economics and Religious Ed with co
+GC494,2016,285, Griffith College,True, Fashion Design Dublin
+CW758,2016,295, Institute of Technology Carlow,False, Applied Social Studies Professional Social Care
+DC193,2016,405, Dublin City University,False, Mechatronic Engineering
+DC190,2016,420, Dublin City University,False, Electronic and Computer Engineering
+TL881,2016,320, Institute of Technology Tralee,False, Social Care
+DC197,2016,405, Dublin City University,False, Biomedical Engineering
+DC195,2016,410, Dublin City University,False, Mechanical and Manufacturing Engineering
+DN230,2016,560, University College Dublin (NUI),False, Actuarial and Financial Studies
+DT343,2016,300, Dublin Institute of Technology,False, Retail and Services Management
+DT341,2016,405, Dublin Institute of Technology,False, Marketing
+TR093,2016,400, Trinity College,True, General Nursing Adelaide School of Nursing
+GC200,2016,280, Griffith College,False, Business Studies Cork
+DN410,2016,535, University College Dublin (NUI),False, Radiography
+CW788,2016,700, Institute of Technology Carlow,True, Youth and Community Work
+DN140,2016,475, University College Dublin (NUI),False, Structural Engineering with Architecture
+MI012,2016,360, Mary Immaculate College,False, Education Irish and Business Studies Thurles
+GA185,2016,315, Galway-Mayo Institute of Technology,False, Business in Finance and Economics
+GY320,2016,450, National University of Ireland Galway,False, Physics Degree options Applied Astrophysics Bi
+GA484,2016,275, Galway-Mayo Institute of Technology,False, Civil Engineering
+TR016,2016,360, Trinity College,False, Deaf Studies
+PC411,2016,300, Carlow College,False, English and History
+PC410,2016,305, Carlow College,False, Humanities
+LY518,2016,290, Letterkenny Institute of Technology,False, Quantity Surveying
+TR017,2016,585, Trinity College,False, Law and Business
+AD101,2016,nan, National College of Art and Design,False," 1st Year Art and Design Common Entry #matric #matric 
+"
+DK874,2016,352, Dundalk Institute of Technology,False, Psychiatric Nursing
+DK877,2016,410, Dundalk Institute of Technology,False, Midwifery
+DK876,2016,305, Dundalk Institute of Technology,False, Early Childhood Studies
+DK870,2016,400, Dundalk Institute of Technology,False, General Nursing
+DK872,2016,330, Dundalk Institute of Technology,False, Intellectual Disability Nursing
+DK820,2016,300, Dundalk Institute of Technology,False, Computing in Games Development
+CW108,2016,295, Institute of Technology Carlow,False, Biosciences with Bioforensics or Biopharmaceutical
+GA880,2016,410, Galway-Mayo Institute of Technology,False, General Nursing Mayo Campus
+MH801,2016,355, Maynooth University,False, Early Childhood Teaching and Learning parttime
+MH802,2016,nan, Maynooth University,False," Community and Youth Work parttime inservice 
+"
+MH803,2016,nan, Maynooth University,False," Local Studies or Community Studies parttime eve 
+"
+CK108,2016,465, University College Cork (NUI),False, Arts International years with subject grouping
+CK109,2016,400, University College Cork (NUI),False, English years or years International Pathwa
+DN660,2016,510, University College Dublin (NUI),False, Commerce International
+CK102,2016,425, University College Cork (NUI),False, Social Science
+CK101,2016,355, University College Cork (NUI),False, Arts years
+CK106,2016,495, University College Cork (NUI),False, Applied Psychology
+CK107,2016,340, University College Cork (NUI),False, Geographical and Archaeological Sciences or
+CK104,2016,390, University College Cork (NUI),True, Arts with Music years or years BMus or Inte
+CK105,2016,430, University College Cork (NUI),False, Film and Screen Media years or years Intern
+BN104,2016,270, Institute of Technology Blanchardstown,False, Computing Information Technology
+BN107,2016,310, Institute of Technology Blanchardstown,False, Applied Social Studies in Social Care
+LC242,2016,300, Limerick Institute of Technology,False, Property Valuation and Management
+BN101,2016,250, Institute of Technology Blanchardstown,False, Business
+BN103,2016,267, Institute of Technology Blanchardstown,False, Business and Information Technology
+BN108,2016,310, Institute of Technology Blanchardstown,False, Engineering Award options Computer Engineering
+BN109,2016,305, Institute of Technology Blanchardstown,False, Business Common Entry Acc Finance Business Bu
+LC248,2016,290, Limerick Institute of Technology,False, Built Environment Undenominated
+LC517,2016,280, Limerick Institute of Technology,False, Creative Multimedia Clonmel
+GY350,2016,425, National University of Ireland Galway,False, Computer Science and Information Technology
+CR520,2016,430, Cork Institute of Technology,False, Biomedical Engineering
+CK201,2016,460, University College Cork (NUI),False, Commerce
+CK203,2016,465, University College Cork (NUI),False, Business Information Systems
+CK202,2016,455, University College Cork (NUI),False, Accounting
+CK205,2016,480, University College Cork (NUI),False, Commerce International with French
+CK204,2016,515, University College Cork (NUI),False, Finance
+CK207,2016,430, University College Cork (NUI),False, Commerce International with Italian
+CK206,2016,495, University College Cork (NUI),False, Commerce International with German
+CK209,2016,500, University College Cork (NUI),False, Commerce International with Irish
+CK208,2016,460, University College Cork (NUI),False, Commerce International with Hispanic Studies
+MH116,2016,nan, Maynooth University,False," Community and Youth Work FullTime 
+"
+MH502,2016,425, Maynooth University,False, Law Law and Arts Law and Accounting Law and B
+CK740,2016,445, University College Cork (NUI),False, Midwifery
+CR116,2016,330, Cork Institute of Technology,False, Software Development and Computer Networking
+LM048,2016,320, University of Limerick,False, Gaeilge
+GA882,2016,365, Galway-Mayo Institute of Technology,False, Psychiatric Nursing Mayo Campus
+DN610,2016,520, University College Dublin (NUI),False, Business and Law
+LM040,2016,375, University of Limerick,False, European Studies
+TA122,2016,245, Institute of Technology Tallaght,False, Management
+NC020,2016,200, National College of Ireland (NCI),False, Marketing Practice
+NC022,2016,320, National College of Ireland (NCI),False, Accounting and Finance
+NC023,2016,255, National College of Ireland (NCI),False, Tech Management with Data Analytics Social Media
+DT491,2016,330, Dublin Institute of Technology,False, Environmental Health
+TL831,2016,300, Institute of Technology Tralee,False, Business Studies
+CR112,2016,375, Cork Institute of Technology,False, Multimedia
+MI010,2016,325, Mary Immaculate College,False, Education Business Studies and Religious Studies
+LC408,2016,275, Limerick Institute of Technology,False, Environmental and Natural Resource Management Thu
+GY113,2016,330, National University of Ireland Galway,False, Arts with Human Rights
+LC407,2016,nan, Limerick Institute of Technology,False," Social and Community Studies Thurles 
+"
+LC402,2016,311, Limerick Institute of Technology,False, Social Care Work Thurles
+GA182,2016,290, Galway-Mayo Institute of Technology,False, Business
+MH602,2016,350, Maynooth University,False, Computer Science through Science
+MH603,2016,495, Maynooth University,False, Computational Thinking Computer Science Mathemat
+MH601,2016,350, Maynooth University,False, Computer Science through Arts
+SG244,2016,935, Institute of Technology Sligo,True, Fine Art
+GA283,2016,250, Galway-Mayo Institute of Technology,False, Contemporary Art
+DC001,2016,400, Dublin City University,False, Education Early Childhood Education
+DC002,2016,465, Dublin City University,False, Education Primary Teaching
+DC003,2016,440, Dublin City University,True, Education Primary Teaching Gaeltacht Applicant
+DC004,2016,435, Dublin City University,True, Education Primary Teaching Church of Ireland Ce
+GC433,2016,290, Griffith College,False, Computing Science Network Management Dublin
+GC430,2016,240, Griffith College,False, Computing Science Dublin
+DT220,2016,285, Dublin Institute of Technology,False, Industrial Mathematics
+DC009,2016,385, Dublin City University,False, Arts Joint Honours Humanities
+CR150,2016,390, Cork Institute of Technology,False, Business Information Systems
+DT223,2016,550, Dublin Institute of Technology,False, Human Nutrition and Dietetics
+CK730,2016,425, University College Cork (NUI),False, Intellectual Disability Nursing
+DL830,2016,900, Dun Laoghaire Institute of Art Design and Technology,True, Design for Stage and Screen Makeup Design
+DT224,2016,490, Dublin Institute of Technology,False, Optometry
+TR021,2016,430, Trinity College,False, Classics
+TR020,2016,575, Trinity College,False, Law and Political Science
+TR023,2016,515, Trinity College,False, English Studies
+TR022,2016,375, Trinity College,False, Early and Modern Irish
+TR025,2016,425, Trinity College,True, Drama and Theatre Studies
+DT422,2016,390, Dublin Institute of Technology,False, Pharmaceutical Healthcare
+DT421,2016,375, Dublin Institute of Technology,False, Food Innovation
+DT420,2016,430, Dublin Institute of Technology,False, Nutraceuticals in Health and Nutrition
+TR029,2016,495, Trinity College,False, Political Science and Geography
+TR028,2016,455, Trinity College,False, Ancient and Medieval History and Culture
+CR305,2016,305, Cork Institute of Technology,False, Physical Sciences Common Entry
+DT544,2016,600, Dublin Institute of Technology,True, Design Interior and Furniture
+DT545,2016,775, Dublin Institute of Technology,True, Design Visual Communication
+DT546,2016,645, Dublin Institute of Technology,True, Fine Art
+DN519,2016,500, University College Dublin (NUI),False, Psychology
+DN515,2016,410, University College Dublin (NUI),False, History
+DN514,2016,325, University College Dublin (NUI),False, Planning Geography and Environment
+DN100,2016,515, University College Dublin (NUI),False, Architecture
+DN511,2016,475, University College Dublin (NUI),False, English
+DN510,2016,495, University College Dublin (NUI),False, Economics
+DN513,2016,425, University College Dublin (NUI),False, English with Film
+DN512,2016,305, University College Dublin (NUI),False, English with Drama
+TA121,2016,215, Institute of Technology Tallaght,False, Accounting and Finance
+MH305,2016,390, Maynooth University,False, Product Design
+TA123,2016,225, Institute of Technology Tallaght,False, Marketing Management
+AL838,2016,270, Athlone Institute of Technology,False, Biotechnology
+MH304,2016,325, Maynooth University,False, Engineering
+GC230,2016,255, Griffith College,False, Computing Science Cork
+DC171,2016,415, Dublin City University,False, Applied Physics
+DC173,2016,415, Dublin City University,False, Physics with Biomedical Sciences
+TL844,2016,335, Institute of Technology Tralee,False, Agricultural Engineering
+MU002,2016,360, Pontifical University St Patrick's College,False, Theology
+DK830,2016,300, Dundalk Institute of Technology,False, Building Surveying
+MH306,2016,350, Maynooth University,False, Robotics and Intelligent Devices
+AL860,2016,300, Athlone Institute of Technology,False, Social Care Practice
+AL861,2016,565, Athlone Institute of Technology,True, Animation and Illustration
+DN201,2016,485, University College Dublin (NUI),False, Computer Science
+DN200,2016,515, University College Dublin (NUI),False, Science
+MU001,2016,300, Pontifical University St Patrick's College,False, Theology and Arts
+WD116,2016,420, Waterford Institute of Technology,False, General Nursing
+WD117,2016,385, Waterford Institute of Technology,False, Psychiatric Nursing
+GY250,2016,385, National University of Ireland Galway,False, Corporate Law
+GY251,2016,435, National University of Ireland Galway,False, Civil Law
+CW008,2016,nan, Institute of Technology Carlow,False," Applied Humanities Wexford 
+"
+DN420,2016,550, University College Dublin (NUI),False, Physiotherapy
+DN425,2016,495, University College Dublin (NUI),False, Health and Performance Science
+GY319,2016,455, National University of Ireland Galway,False, Mathematical Science
+GY318,2016,500, National University of Ireland Galway,False, Biopharmaceutical Chemistry
+CR400,2016,325, Cork Institute of Technology,False, Accounting
+GY310,2016,405, National University of Ireland Galway,False, Marine Science
+GY313,2016,310, National University of Ireland Galway,False, Health and Safety Systems
+GY314,2016,400, National University of Ireland Galway,False, Earth and Ocean Sciences
+WD025,2016,250, Waterford Institute of Technology,False, Construction Management and Engineering
+LC293,2016,250, Limerick Institute of Technology,False, Business Studies with Travel and Tourism Managemen
+LC292,2016,330, Limerick Institute of Technology,False, Social Care Work
+LC295,2016,280, Limerick Institute of Technology,False, Business Studies with Sports Management
+LC294,2016,300, Limerick Institute of Technology,False, Business Studies with Event Management
+GY504,2016,450, National University of Ireland Galway,False, Podiatry
+WD186,2016,340, Waterford Institute of Technology,False, Sports Coaching and Performance
+WD028,2016,310, Waterford Institute of Technology,False, Applied Computing
+GY501,2016,723, National University of Ireland Galway,True, Medicine year6 year and embedded PhD options
+GY502,2016,520, National University of Ireland Galway,False, Occupational Therapy
+GY503,2016,520, National University of Ireland Galway,False, Speech and Language Therapy
+CR580,2016,315, Cork Institute of Technology,False, Electrical Engineering
+CW568,2016,395, Institute of Technology Carlow,False, Aero Engineering
+SG149,2016,315, Institute of Technology Sligo,False, Business in Finance and Investment
+WD161,2016,265, Waterford Institute of Technology,False, Computer Forensics and Security
+WD160,2016,300, Waterford Institute of Technology,False, Finance and Investment
+WD163,2016,375, Waterford Institute of Technology,False, Psychology
+WD162,2016,295, Waterford Institute of Technology,False, Quantity Surveying
+DT597,2016,315, Dublin Institute of Technology,False, Creative and Cultural Industries
+DT596,2016,280, Dublin Institute of Technology,False, Print and Digital Media Technology Management
+CW258,2016,315, Institute of Technology Carlow,False, Cybercrime and IT Security
+WD200,2016,275, Waterford Institute of Technology,False, Arts
+WD168,2016,295, Waterford Institute of Technology,False, Entertainments Systems
+CK706,2016,415, University College Cork (NUI),False, Public Health
+LM154,2016,405, University of Limerick,False, Intellectual Disability Nursing
+CR570,2016,280, Cork Institute of Technology,False, Quantity Surveying
+CR572,2016,245, Cork Institute of Technology,False, Construction Management
+CW098,2016,310, Institute of Technology Carlow,False, Culture and Heritage Studies Wexford
+DT206,2016,420, Dublin Institute of Technology,False, Biomedical and Molecular Diagnostics
+DT205,2016,305, Dublin Institute of Technology,False, Mathematical Sciences
+DT204,2016,500, Dublin Institute of Technology,False, Biomedical Science
+DT203,2016,325, Dublin Institute of Technology,False, Forensic and Environmental Chemistry
+DB500,2016,290, Dublin Business School & DBS School of Arts,False, Computing
+DT201,2016,470, Dublin Institute of Technology,False, Science General Entry
+SG143,2016,350, Institute of Technology Sligo,False, Business in International Marketing and Sales with
+LM150,2016,460, University of Limerick,False, General Nursing
+TL880,2016,305, Institute of Technology Tralee,False, Early Childhood Care and Education
+LM033,2016,330, University of Limerick,False, New Media and English
+LM032,2016,425, University of Limerick,False, Arts Joint Honours
+LM031,2016,315, University of Limerick,True, Voice and Dance
+LM030,2016,345, University of Limerick,True, Irish Music and Dance
+LM037,2016,410, University of Limerick,False, Economics and Mathematical Sciences
+NC010,2016,320, National College of Ireland (NCI),False, Psychology
+LM035,2016,335, University of Limerick,False, English and History
+DK880,2016,310, Dundalk Institute of Technology,False, Health and Physical Activity
+DK881,2016,330, Dundalk Institute of Technology,False, Environmental Bioscience
+DK882,2016,355, Dundalk Institute of Technology,False, Agriculture
+LM038,2016,505, University of Limerick,False, Psychology and Sociology
+TR056,2016,535, Trinity College,False, Human Health and Disease
+TR051,2016,730, Trinity College,True, Medicine
+DT501,2016,404, Dublin Institute of Technology,True, Music
+DT504,2016,450, Dublin Institute of Technology,False, Film and Broadcasting
+DT506,2016,750, Dublin Institute of Technology,True, Commercial Modern Music
+DT508,2016,385, Dublin Institute of Technology,False, Games Design
+LY918,2016,360, Letterkenny Institute of Technology,False, Psychiatric Nursing
+TL803,2016,265, Institute of Technology Tralee,False, Music Technology
+TL802,2016,280, Institute of Technology Tralee,False, TV Radio and New Media Broadcasting
+DC215,2016,450, Dublin City University,False, General Nursing
+DC217,2016,375, Dublin City University,False, Intellectual Disability Nursing
+DC216,2016,375, Dublin City University,False, Psychiatric Nursing
+DT299,2016,395, Dublin Institute of Technology,False, Chemical Sciences with Medicinal Chemistry
+DT111,2016,350, Dublin Institute of Technology,False, Quantity Surveying and Construction Economics
+DT110,2016,350, Dublin Institute of Technology,False, Property Economics Valuation Surveying
+DT117,2016,325, Dublin Institute of Technology,False, Construction Management
+LM083,2016,345, University of Limerick,False, Mobile Communications and Security
+LM080,2016,365, University of Limerick,False, Electronics
+DC131,2016,445, Dublin City University,False, Communication Studies
+CR121,2016,620, Cork Institute of Technology,True, Music at CIT Cork School of Music
+DC133,2016,450, Dublin City University,False, Multimedia
+CR127,2016,830, Cork Institute of Technology,True, Popular Music Electric Guitar at CIT Cork School
+CR126,2016,770, Cork Institute of Technology,True, Popular Music Drums at CIT Cork School of Music
+CR125,2016,675, Cork Institute of Technology,True, Popular Music Electric Bass Guitar at CIT Cork Sc
+AS110,2016,410, St. Angela`s College,False, General Nursing
+CR129,2016,900, Cork Institute of Technology,True, Popular Music Voice at CIT Cork School of Music
+CR128,2016,825, Cork Institute of Technology,True, Popular Music Keyboards at CIT Cork School of Mus
+DN252,2016,440, University College Dublin (NUI),False, Dairy Business
+DN253,2016,430, University College Dublin (NUI),False, AgriEnvironmental Sciences
+DN250,2016,460, University College Dublin (NUI),False, Agricultural Science
+AL820,2016,295, Athlone Institute of Technology,False, Mechanical and Polymer Engineering
+CK606,2016,450, University College Cork (NUI),False, Architecture Offered jointly by UCC and CIT
+CK600,2016,490, University College Cork (NUI),False, Engineering
+CW188,2016,445, Institute of Technology Carlow,False, Sports Rehabilitation and Athletic Therapy
+LM029,2016,460, University of Limerick,False, Law Plus
+MH901,2016,nan, Maynooth University,False," Arts Full time Kilkenny Campus First year onl AQA AQA 
+"
+CW748,2016,270, Institute of Technology Carlow,False, Early Childhood Education and Care
+TR086,2016,495, Trinity College,False, Business Studies and German
+DT571,2016,405, Dublin Institute of Technology,False, Social Care
+TL890,2016,425, Institute of Technology Tralee,False, General Nursing
+DT572,2016,380, Dublin Institute of Technology,False, Early Childhood Education
+TR076,2016,595, Trinity College,False, Nanoscience Physics and Chemistry of Advanced Mat
+TR077,2016,490, Trinity College,False, Earth Sciences
+TR074,2016,495, Trinity College,False, Chemistry with Molecular Modelling
+TR075,2016,525, Trinity College,False, Medicinal Chemistry
+TR072,2016,560, Trinity College,False, Pharmacy
+TR073,2016,570, Trinity College,False, Human Genetics
+DB531,2016,275, Dublin Business School & DBS School of Arts,False, Marketing
+GC455,2016,330, Griffith College,True, Music Production Dublin
+RC004,2016,535, Royal College of Surgeons in Ireland,False, Physiotherapy
+RC005,2016,550, Royal College of Surgeons in Ireland,False, Pharmacy
+LM020,2016,440, University of Limerick,False, Law and Accounting
+TR018,2016,575, Trinity College,False, Law and French
+GC201,2016,350, Griffith College,False, Accounting and Finance Cork
+PC405,2016,300, Carlow College,False, Citizenship and Community Studies
+CM010,2016,320, Marino Institute of Education,False, Education Studies
+GA889,2016,300, Galway-Mayo Institute of Technology,False, Applied Social Care Mayo Campus
+DK864,2016,300, Dundalk Institute of Technology,False, Film and Television Production
+DK865,2016,300, Dundalk Institute of Technology,False, Production of Music and Audio
+DK862,2016,305, Dundalk Institute of Technology,False, Social Care
+DK863,2016,300, Dundalk Institute of Technology,False, Communications in Creative Media
+DK860,2016,503, Dundalk Institute of Technology,True, Applied Music
+DK861,2016,300, Dundalk Institute of Technology,False, Digital Humanities
+DT001,2016,435, Dublin Institute of Technology,False, Product Design
+TR084,2016,470, Trinity College,False, Social Studies Social Work
+GA885,2016,240, Galway-Mayo Institute of Technology,False, Outdoor Education Mayo Campus
+GA884,2016,nan, Galway-Mayo Institute of Technology,False," Digital Media and Society Mayo Campus 
+"
+GA887,2016,nan, Galway-Mayo Institute of Technology,False," History and Geography Mayo Campus 
+"
+GA886,2016,250, Galway-Mayo Institute of Technology,False, Business Mayo Campus
+DN550,2016,415, University College Dublin (NUI),False, Social Science
+MI011,2016,375, Mary Immaculate College,False, Education Irish and Religious Studies Thurles
+AS051,2016,375, St. Angela`s College,False, Food and Business Management
+LM036,2016,380, University of Limerick,False, Economics and Sociology
+GA790,2016,400, Galway-Mayo Institute of Technology,False, Sport and Exercise Science
+GA480,2016,260, Galway-Mayo Institute of Technology,False, Construction Management
+DN670,2016,585, University College Dublin (NUI),False, Quantitative Business
+GA483,2016,265, Galway-Mayo Institute of Technology,False, Architectural Technology
+CK506,2016,375, University College Cork (NUI),False, International Development and Food Policy
+CK504,2016,510, University College Cork (NUI),False, Nutritional Sciences
+CK505,2016,465, University College Cork (NUI),False, Food Science
+CK502,2016,440, University College Cork (NUI),False, Food Marketing and Entrepreneurship
+WD086,2016,278, Waterford Institute of Technology,False, Electronic Engineering
+WD084,2016,315, Waterford Institute of Technology,False, Accounting
+WD085,2016,295, Waterford Institute of Technology,False, Mechanical and Manufacturing Engineering
+LC275,2016,240, Limerick Institute of Technology,False, Electrical Systems
+WD120,2016,370, Waterford Institute of Technology,False, Intellectual Disability Nursing
+SG444,2016,290, Institute of Technology Sligo,False, Science Undemoninated
+WD125,2016,280, Waterford Institute of Technology,False, Exercise and Health Studies
+WD124,2016,290, Waterford Institute of Technology,False, Health Promotion
+GY201,2016,400, National University of Ireland Galway,False, Commerce
+SG241,2016,250, Institute of Technology Sligo,False, Performing Arts
+GY261,2016,488, National University of Ireland Galway,True, Business Studies in International Hotel Management
+GY262,2016,630, National University of Ireland Galway,True, Commerce in International Hotel Management Shanno
+SG243,2016,300, Institute of Technology Sligo,False, Social Care Practice
+CT125,2016,310, College of Computer Technology,False, Information Technology
+CK210,2016,340, University College Cork (NUI),False, Government
+CK211,2016,400, University College Cork (NUI),False, Commerce International with Chinese Studies
+SG245,2016,270, Institute of Technology Sligo,False, Creative Design
+SG242,2016,290, Institute of Technology Sligo,False, Early Childhood Care and Education
+LM103,2016,310, University of Limerick,True, Paramedic Studies
+LM102,2016,525, University of Limerick,False, Psychology
+LM100,2016,555, University of Limerick,False, Physiotherapy
+DC240,2016,470, Dublin City University,False, Marketing Innovation and Technology
+GY122,2016,315, National University of Ireland Galway,False, Na Dna Cumarsid agus Gaeilge
+WD187,2016,280, Waterford Institute of Technology,False, Social Science
+GY120,2016,305, National University of Ireland Galway,False, Arts Child Youth and Family Policy and Practice
+GY121,2016,350, National University of Ireland Galway,False, Arts Childrens Studies
+CW558,2016,290, Institute of Technology Carlow,False, Electronic Systems
+TL847,2016,360, Institute of Technology Tralee,False, Manufacturing Engineering
+TL848,2016,345, Institute of Technology Tralee,False, Agricultural Science
+SG445,2016,310, Institute of Technology Sligo,False, Pharmaceutical Science with Drug Development
+CR220,2016,710, Cork Institute of Technology,True, Fine Art at CIT Crawford College of Art and Design
+LY818,2016,305, Letterkenny Institute of Technology,False, Science
+LY708,2016,300, Letterkenny Institute of Technology,False, Computing
+DL829,2016,815, Dun Laoghaire Institute of Art Design and Technology,True, Design for Stage and Screen Costume Design
+DL828,2016,555, Dun Laoghaire Institute of Art Design and Technology,True, 3D Design Modelmaking and Digital Art
+LY968,2016,280, Letterkenny Institute of Technology,False, Early Childhood Care Health and Education
+DL823,2016,225, Dun Laoghaire Institute of Art Design and Technology,False, Business Studies Entrepreneurship and Management
+DL822,2016,230, Dun Laoghaire Institute of Art Design and Technology,False, Cultural Enterprise
+DL821,2016,225, Dun Laoghaire Institute of Art Design and Technology,False, English Media and Cultural Studies
+SG343,2016,255, Institute of Technology Sligo,False, Quantity Surveying
+DL827,2016,667, Dun Laoghaire Institute of Art Design and Technology,True, Art
+DL826,2016,845, Dun Laoghaire Institute of Art Design and Technology,True, Visual Communication Design
+DL825,2016,380, Dun Laoghaire Institute of Art Design and Technology,False, Applied Psychology
+DN600,2016,525, University College Dublin (NUI),False, Law
+CR365,2016,310, Cork Institute of Technology,False, Environmental Science and Sustainable Technology
+GC402,2016,360, Griffith College,False, Business Studies HRM Dublin
+GC401,2016,275, Griffith College,False, Accounting and Finance Dublin
+GC400,2016,245, Griffith College,False, Business Studies Dublin
+GC407,2016,215, Griffith College,False, Business Studies Marketing Dublin
+CR360,2016,300, Cork Institute of Technology,False, Instrument Engineering
+DC218,2016,485, Dublin City University,False, Childrens and General Nursing Integrated
+GA680,2016,300, Galway-Mayo Institute of Technology,False, Mechanical Engineering
+LM039,2016,410, University of Limerick,False, Journalism and New Media
+LM087,2016,385, University of Limerick,False, Energy
+CK720,2016,420, University College Cork (NUI),False, Mental Health Nursing
+CW708,2016,300, Institute of Technology Carlow,False, Law LLB
+TR032,2016,500, Trinity College,False, Engineering
+TR033,2016,480, Trinity College,False, Computer Science
+GC405,2016,245, Griffith College,False, International Hospitality Management Dublin
+TR031,2016,565, Trinity College,False, Mathematics
+TR034,2016,565, Trinity College,False, Management Science and Information Systems Studies
+TR035,2016,555, Trinity College,False, Theoretical Physics
+AS052,2016,270, St. Angela`s College,False, Health and Disability Studies
+TR038,2016,515, Trinity College,False, Engineering with Management
+TR039,2016,465, Trinity College,False, Computer Science and Language
+CR310,2016,320, Cork Institute of Technology,False, IT Management
+LM076,2016,435, University of Limerick,False, Product Design and Technology
+CR312,2016,320, Cork Institute of Technology,False, Web Development
+DT028,2016,270, Dublin Institute of Technology,False, Transport Operations and Technology
+LM073,2016,440, University of Limerick,False, Mechanical Engineering
+LY928,2016,365, Letterkenny Institute of Technology,False, Intellectual Disability Nursing
+CW908,2016,270, Institute of Technology Carlow,False, Business
+DT023,2016,415, Dublin Institute of Technology,False, Manufacturing and Design Engineering
+DT533,2016,300, Dublin Institute of Technology,False, Contemporary Visual Culture
+DT532,2016,425, Dublin Institute of Technology,False, Law LLB
+LC110,2016,650, Limerick Institute of Technology,True, Art and Design
+LC114,2016,655, Limerick Institute of Technology,True, Design Fashion Knitwear and Textiles
+DN500,2016,320, University College Dublin (NUI),False, BA Degree joint honours full time
+DN501,2016,320, University College Dublin (NUI),False, BA Degree joint honours part time
+LY408,2016,265, Letterkenny Institute of Technology,False, Visual Communication and Graphic Design
+GA281,2016,350, Galway-Mayo Institute of Technology,False, Film and Documentary
+LM090,2016,505, University of Limerick,False, Physical Education with Teacher Ed
+DC208,2016,505, Dublin City University,False, Psychology
+CW178,2016,410, Institute of Technology Carlow,False, Sport Science
+AL852,2016,290, Athlone Institute of Technology,False, Accounting with optional placement
+AL851,2016,300, Athlone Institute of Technology,False, Business and Law
+AL850,2016,300, Athlone Institute of Technology,False, Business
+GY107,2016,375, National University of Ireland Galway,False, Na Dna Gaeilge agus Lann an Aistrichin
+AL854,2016,305, Athlone Institute of Technology,False, Business Psychology
+TR087,2016,460, Trinity College,False, Business Studies and Russian
+DB565,2016,260, Dublin Business School & DBS School of Arts,False, Journalism
+DB566,2016,240, Dublin Business School & DBS School of Arts,False, Social Science
+DB567,2016,235, Dublin Business School & DBS School of Arts,False, Film
+TR083,2016,480, Trinity College,False, Sociology and Social Policy
+DB561,2016,250, Dublin Business School & DBS School of Arts,False, Arts General
+DB562,2016,240, Dublin Business School & DBS School of Arts,False, Psychology
+TR080,2016,535, Trinity College,False, Business
+DB568,2016,245, Dublin Business School & DBS School of Arts,False, Law
+DT321,2016,470, Dublin Institute of Technology,False, Business and Law
+TR089,2016,430, Trinity College,False, Business Studies and Polish
+LC236,2016,335, Limerick Institute of Technology,False, Internet Systems Development
+LC234,2016,250, Limerick Institute of Technology,False, Multimedia Programming and Design
+LC233,2016,255, Limerick Institute of Technology,False, Software Development
+LC231,2016,255, Limerick Institute of Technology,False, Business Technology
+DK810,2016,300, Dundalk Institute of Technology,False, Accounting and Finance
+LC239,2016,300, Limerick Institute of Technology,False, Computer Networks and Systems Management
+CW018,2016,255, Institute of Technology Carlow,False, Business Wexford
+CW168,2016,290, Institute of Technology Carlow,False, Environmental Science
+TL871,2016,315, Institute of Technology Tralee,False, Health and Leisure
+DN430,2016,440, University College Dublin (NUI),False, Sport and Exercise Management
+LY108,2016,305, Letterkenny Institute of Technology,False, Business Accounting
+TL872,2016,350, Institute of Technology Tralee,False, Health and Leisure with Massage
+WD150,2016,285, Waterford Institute of Technology,False, Criminal Justice Studies
+MH001,2016,495, Maynooth University,False, Education Primary Teaching Froebel
+GY308,2016,400, National University of Ireland Galway,False, Environmental Science
+GY309,2016,485, National University of Ireland Galway,False, Financial Mathematics and Economics
+GY303,2016,530, National University of Ireland Galway,False, Biomedical Science
+GY301,2016,400, National University of Ireland Galway,False, Science
+GY304,2016,440, National University of Ireland Galway,False, Biotechnology
+WD191,2016,400, Waterford Institute of Technology,False, Agricultural Science
+WD192,2016,300, Waterford Institute of Technology,False, Social Care Practice
+WD193,2016,300, Waterford Institute of Technology,False, Marketing and Digital Media
+WD194,2016,305, Waterford Institute of Technology,False, Culinary Arts
+WD195,2016,300, Waterford Institute of Technology,False, Architectural Building Information Modelling Tec
+WD197,2016,275, Waterford Institute of Technology,False, The Internet of Things
+TA222,2016,220, Institute of Technology Tallaght,False, Mechanical Engineering
+TA223,2016,275, Institute of Technology Tallaght,False, Energy Systems Engineering
+TA221,2016,215, Institute of Technology Tallaght,False, Electronic Engineering
+CR590,2016,315, Cork Institute of Technology,False, Electronic Engineering
+AC137,2016,310, American College,False, Liberal Arts
+WD171,2016,285, Waterford Institute of Technology,False, Sustainable Energy Engineering
+DT582,2016,380, Dublin Institute of Technology,False, Journalism
+SG342,2016,nan, Institute of Technology Sligo,False," Civil Engineering 
+"
+CR500,2016,410, Cork Institute of Technology,False, Engineering Common Entry
+CW068,2016,270, Institute of Technology Carlow,False, Applied Social Studies Professional Social Care
+DT211,2016,360, Dublin Institute of Technology,False, Computer Science Infrastructure
+BN120,2016,300, Institute of Technology Blanchardstown,False, Digital Forensics and Cyber Security
+BN121,2016,325, Institute of Technology Blanchardstown,False, Mechatronic Engineering
+GY405,2016,430, National University of Ireland Galway,False, Mechanical Engineering
+LM156,2016,440, University of Limerick,False, Midwifery
+GY406,2016,435, National University of Ireland Galway,False, Electronic and Computer Engineering
+GY401,2016,445, National University of Ireland Galway,False, Engineering Undenominated
+LM152,2016,450, University of Limerick,False, Mental Health Nursing
+GY402,2016,430, National University of Ireland Galway,False, Civil Engineering
+WD091,2016,290, Waterford Institute of Technology,False, Hospitality Management
+GY408,2016,500, National University of Ireland Galway,False, Biomedical Engineering
+LC243,2016,310, Limerick Institute of Technology,False, Quantity Surveying
+GC403,2016,240, Griffith College,False, Law Dublin
+NC004,2016,310, National College of Ireland (NCI),False, Business Information Systems
+NC005,2016,290, National College of Ireland (NCI),False, Human Resource Management
+LM028,2016,400, University of Limerick,False, Criminal Justice
+NC003,2016,310, National College of Ireland (NCI),False, Computing
+LY218,2016,210, Letterkenny Institute of Technology,False, Business with FrenchSpanishGermanIrish
+GA482,2016,240, Galway-Mayo Institute of Technology,False, Quantity Surveying and Construction Economics
+CR320,2016,545, Cork Institute of Technology,False, Biomedical Science Offered jointly by CIT and UC
+LC241,2016,255, Limerick Institute of Technology,False, Construction Management
+CR325,2016,360, Cork Institute of Technology,False, Pharmaceutical Biotechnology
+LM022,2016,330, University of Limerick,False, Politics and International Relations
+NC009,2016,290, National College of Ireland (NCI),False, Business
+TR090,2016,515, Trinity College,False, Business Studies and Spanish
+DT106,2016,300, Dublin Institute of Technology,False, Planning and Environmental Management
+LC422,2016,300, Limerick Institute of Technology,False, Sports Strength and Conditioning Thurles
+DT101,2016,605, Dublin Institute of Technology,True, Architecture
+TR091,2016,425, Trinity College,False, General Nursing Meath and St Jamess
+DT066,2016,380, Dublin Institute of Technology,False, Engineering General Entry
+CW948,2016,317, Institute of Technology Carlow,False, Accounting
+TL812,2016,335, Institute of Technology Tralee,False, Computing with Media Development
+TL810,2016,305, Institute of Technology Tralee,False, Computing with Software Development
+TL811,2016,300, Institute of Technology Tralee,False, Computing with Games Development
+DC202,2016,495, Dublin City University,False, Sport Science and Health
+DC203,2016,430, Dublin City University,False, Science Education
+DC200,2016,405, Dublin City University,False, Common Entry into Engineering Undenominated Entry
+DC201,2016,480, Dublin City University,False, Common Entry into Science Undenominated Entry
+DC206,2016,480, Dublin City University,False, Physical Education with Mathematics
+WD152,2016,270, Waterford Institute of Technology,False, Visual Art
+DC204,2016,510, Dublin City University,False, Athletic Therapy and Training
+DC205,2016,500, Dublin City University,False, Physical Education with Biology
+CR600,2016,630, Cork Institute of Technology,True, Visual Communications
+DC209,2016,425, Dublin City University,False, Health and Society
+CR210,2016,1000, Cork Institute of Technology,True, Contemporary Applied Art Ceramics Glass Textile
+TR095,2016,385, Trinity College,False, Mental Health Nursing
+DT081,2016,430, Dublin Institute of Technology,False, Computer and Communications Engineering
+DN262,2016,530, University College Dublin (NUI),False, Human Nutrition
+DN261,2016,490, University College Dublin (NUI),False, Food Science
+TR097,2016,385, Trinity College,False, Intellectual Disability Nursing
+MH210,2016,450, Maynooth University,False, Chemistry with Pharmaceutical and Biomedical Chemi
+MH212,2016,455, Maynooth University,False, Science with Education or Mathematics with Educ
+BY401,2016,nan, IBAT College Dublin,False," Business 
+"
+AL810,2016,315, Athlone Institute of Technology,False, Quantity Surveying
+DT365,2016,450, Dublin Institute of Technology,False, Business and Management
+DT366,2016,430, Dublin Institute of Technology,False, Accounting and Finance
+DT564,2016,355, Dublin Institute of Technology,False, International Business and Languages Italian
+DT565,2016,360, Dublin Institute of Technology,False, International Business and Languages Chinese
+CM001,2016,460, Marino Institute of Education,False, Education Primary Teaching
+DB521,2016,235, Dublin Business School & DBS School of Arts,False, Accounting and Finance
+CM002,2016,420, Marino Institute of Education,True, Education Primary Teaching Gaeltacht Applicant
+DB524,2016,315, Dublin Business School & DBS School of Arts,False, Business Information Systems
+DB525,2016,245, Dublin Business School & DBS School of Arts,False, Marketing Digital Media and Cloud Computing
+DT407,2016,300, Dublin Institute of Technology,False, Culinary Arts
+DN310,2016,465, University College Dublin (NUI),False, Veterinary Nursing
+WD180,2016,370, Waterford Institute of Technology,False, Physics for Modern Technology
+TR071,2016,505, Trinity College,False, Science
+TR911,2016,505, Trinity College,False, Childrens and General Nursing Integrated
+TR913,2016,455, Trinity College,False, Midwifery
+DC155,2016,375, Dublin City University,False, Applied Language and Translation Studies
+LC225,2016,295, Limerick Institute of Technology,False, Business Marketing and Management
+DC132,2016,420, Dublin City University,False, Journalism
+CI101,2016,220, Irish College of Humanities & Applied Sciences,False, Counselling and Psychotherapy Limerick
+DN541,2016,460, University College Dublin (NUI),False, International Languages
+GA788,2016,300, Galway-Mayo Institute of Technology,False, Computing and Digital Media
+GA789,2016,300, Galway-Mayo Institute of Technology,False, Agriculture and Environmental Management Mountbe
+GA786,2016,310, Galway-Mayo Institute of Technology,False, Forensic Science and Analysis
+GA787,2016,300, Galway-Mayo Institute of Technology,False, Computing in Software Development
+GA784,2016,300, Galway-Mayo Institute of Technology,False, Science Undenominated
+CW938,2016,290, Institute of Technology Carlow,False, Business with Law
+GA782,2016,315, Galway-Mayo Institute of Technology,False, Chemical and Pharmaceutical Science
+GA783,2016,315, Galway-Mayo Institute of Technology,False, Physics and Instrumentation
+GA780,2016,300, Galway-Mayo Institute of Technology,False, Applied Freshwater and Marine Biology
+GA781,2016,305, Galway-Mayo Institute of Technology,False, Applied Biology and Biopharmaceutical Science
+TR030,2016,330, Trinity College,False, Catholic Theological Studies
+TL801,2016,260, Institute of Technology Tralee,False, Animation Visual Effects and Motion Design
+DT401,2016,300, Dublin Institute of Technology,False, International Hospitality Management
+ID002,2016,nan, ICD Business School,False," Business Studies 
+"
+ID003,2016,nan, ICD Business School,False," Business Studies with Chinese 
+"
+CW028,2016,265, Institute of Technology Carlow,False, Early Childhood Education and Care Wexford
+LC266,2016,300, Limerick Institute of Technology,False, Drug and Medicinal Product Analysis
+WD137,2016,290, Waterford Institute of Technology,False, Design Visual Communications
+WD134,2016,300, Waterford Institute of Technology,False, International Business
+MH407,2016,400, Maynooth University,False, Business and Accounting
+CR420,2016,320, Cork Institute of Technology,False, Marketing
+CR425,2016,330, Cork Institute of Technology,False, International Business with Language
+DT405,2016,330, Dublin Institute of Technology,False, Culinary Science
+LC502,2016,587, Limerick Institute of Technology,True, Game Art and Design Clonmel
+LM118,2016,425, University of Limerick,False, Electronic and Computer Engineering with defined
+LM119,2016,420, University of Limerick,False, Design and Manufacture
+SG440,2016,315, Institute of Technology Sligo,False, AgriFood Science
+DB526,2016,465, Dublin Business School & DBS School of Arts,False, Business Information Systems Cloud Computing
+LM110,2016,350, University of Limerick,False, Computer Games Development
+LM113,2016,340, University of Limerick,False, Digital Media Design
+LM114,2016,340, University of Limerick,False, Music Media and Performance Technology
+LM115,2016,440, University of Limerick,False, Chemical and Biochemical Engineering
+LM116,2016,430, University of Limerick,False, Engineering Choice Degree options
+LM117,2016,405, University of Limerick,False, Science Choice Degree options
+CK407,2016,560, University College Cork (NUI),False, Mathematical Sciences
+CK406,2016,460, University College Cork (NUI),False, Chemical Sciences
+CK405,2016,480, University College Cork (NUI),False, Genetics
+CK404,2016,430, University College Cork (NUI),False, Biological Earth and Environmental Sciences
+CK402,2016,480, University College Cork (NUI),False, Biological and Chemical Sciences
+CK401,2016,435, University College Cork (NUI),False, Computer Science
+CW468,2016,270, Institute of Technology Carlow,False, Architectural Technology
+CK408,2016,525, University College Cork (NUI),False, Physics and Astrophysics
+DN615,2016,555, University College Dublin (NUI),False, BCL Matrise
+TL805,2016,305, Institute of Technology Tralee,False, Information Systems Management
+CW548,2016,335, Institute of Technology Carlow,False, Mechanical Engineering
+GY118,2016,400, National University of Ireland Galway,False, Arts Drama Theatre and Performance Studies
+GY117,2016,350, National University of Ireland Galway,False, Arts with Latin American Studies
+GY115,2016,335, National University of Ireland Galway,False, Arts with Performing Arts Studies
+GY114,2016,340, National University of Ireland Galway,False, Arts with Irish Studies
+CW238,2016,290, Institute of Technology Carlow,False, Software Development
+GY112,2016,330, National University of Ireland Galway,False, Arts with Film Studies
+GY111,2016,440, National University of Ireland Galway,False, Arts with Creative Writing
+GY110,2016,400, National University of Ireland Galway,False, Arts with Childrens Studies
+DT221,2016,350, Dublin Institute of Technology,False, Physics with Energy and Environment
+DL835,2016,210, Dun Laoghaire Institute of Art Design and Technology,False, Creative Media Technologies
+DL836,2016,270, Dun Laoghaire Institute of Art Design and Technology,False, Creative Computing
+DT222,2016,350, Dublin Institute of Technology,False, Physics Technology
+DT225,2016,405, Dublin Institute of Technology,False, Public Health Nutrition
+DL831,2016,560, Dun Laoghaire Institute of Art Design and Technology,True, Design for Stage and Screen Production Design
+DT227,2016,300, Dublin Institute of Technology,False, Science with Nanotechnology
+DL833,2016,655, Dun Laoghaire Institute of Art Design and Technology,True, Photography
+DT229,2016,465, Dublin Institute of Technology,False, Clinical Measurement Science
+DT228,2016,450, Dublin Institute of Technology,False, Computer Science
+DL834,2016,885, Dun Laoghaire Institute of Art Design and Technology,True, Film and Television Production
+LM041,2016,330, University of Limerick,False, Politics and Public Administration
+LM071,2016,460, University of Limerick,False, Biomedical Engineering
+SG142,2016,400, Institute of Technology Sligo,False, Business in International Marketing and Sales with
+LM046,2016,325, University of Limerick,False, History Politics Sociology and Social Studies
+SG141,2016,280, Institute of Technology Sligo,False, Business
+SG146,2016,345, Institute of Technology Sligo,False, Accounting
+SG144,2016,305, Institute of Technology Sligo,False, Business in International Marketing and Sales with
+LM077,2016,500, University of Limerick,False, Aeronautical Engineering
+CK712,2016,515, University College Cork (NUI),False, Childrens and General Nursing Integrated
+CK710,2016,445, University College Cork (NUI),False, General Nursing
+GC432,2016,250, Griffith College,False, Computing Science Software Development Dublin
+LM044,2016,415, University of Limerick,False, Applied Languages two or three languages to degre
+LM045,2016,345, University of Limerick,False, Language and Literature
+DT021,2016,425, Dublin Institute of Technology,False, ElectricalElectronic Engineering
+DT035,2016,300, Dublin Institute of Technology,False, Electrical Services and Energy Management
+LC513,2016,285, Limerick Institute of Technology,False, Business Clonmel
+TR009,2016,455, Trinity College,True, Music Education
+TR008,2016,360, Trinity College,False, World Religions and Theology
+TR007,2016,520, Trinity College,False, Clinical Speech and Language Studies
+TR006,2016,550, Trinity College,False, Psychology
+TR005,2016,455, Trinity College,False, Philosophy
+TR004,2016,535, Trinity College,False, Law
+TR003,2016,500, Trinity College,False, History
+TR002,2016,395, Trinity College,True, Music
+LC518,2016,611, Limerick Institute of Technology,True, Digital Animation Production Clonmel
+LM060,2016,450, University of Limerick,False, Mathematical Sciences
+LM061,2016,405, University of Limerick,False, Pharmaceutical and Industrial Chemistry
+GC489,2016,195, Griffith College,False, Interior Architecture Dublin
+DT529,2016,365, Dublin Institute of Technology,True, Drama Performance
+LM064,2016,420, University of Limerick,False, Industrial Biochemistry
+LM065,2016,415, University of Limerick,False, Applied Physics
+LM066,2016,385, University of Limerick,False, Environmental Science
+SG246,2016,285, Institute of Technology Sligo,False, Computing
+LM068,2016,460, University of Limerick,False, Food Science and Health
+DT520,2016,300, Dublin Institute of Technology,False, Languages and International Tourism Spanish
+CR105,2016,430, Cork Institute of Technology,False, Chemical and Biopharmaceutical Engineering
+CR106,2016,380, Cork Institute of Technology,False, Software Development
+DB520,2016,265, Dublin Business School & DBS School of Arts,False, Business Studies with work placement
+CR109,2016,375, Cork Institute of Technology,False, Structural Engineering
+CR108,2016,415, Cork Institute of Technology,False, Mechanical Engineering
+DK817,2016,nan, Dundalk Institute of Technology,False," Business Studies Years and at Monaghan Instit 
+"
+DK816,2016,300, Dundalk Institute of Technology,False, Business Studies
+DC118,2016,350, Dublin City University,False, Gn agus Gaeilge Business and Irish
+DC119,2016,545, Dublin City University,False, Global Business Canada
+AL840,2016,255, Athlone Institute of Technology,False, Pharmaceutical Science
+AL841,2016,410, Athlone Institute of Technology,False, Athletic and Rehabilitation Therapy
+AL842,2016,325, Athlone Institute of Technology,False, Bioveterinary Science
+AL843,2016,345, Athlone Institute of Technology,False, Physical Activity and Health
+DC112,2016,500, Dublin City University,False, Global Business France
+DC113,2016,470, Dublin City University,False, Global Business Germany
+DC110,2016,465, Dublin City University,False, Business Studies International
+DC111,2016,470, Dublin City University,False, Business Studies
+DC116,2016,590, Dublin City University,False, Global Business USA
+DC117,2016,460, Dublin City University,False, Aviation Management Aviation Management with Pil
+DC114,2016,515, Dublin City University,False, Global Business Spain
+DC115,2016,485, Dublin City University,False, Accounting and Finance
+AD202,2016,nan, National College of Art and Design,False," Design or Fine Art and Education Second Level T #matric 
+"
+DC181,2016,480, Dublin City University,False, Biotechnology
+DT358,2016,300, Dublin Institute of Technology,False, Logistics and Supply Chain Management
+DB512,2016,275, Dublin Business School & DBS School of Arts,False, Business Studies
+DB515,2016,235, Dublin Business School & DBS School of Arts,False, Business Studies Human Resource Management
+DB514,2016,260, Dublin Business School & DBS School of Arts,False, Business Studies Law
+DB517,2016,275, Dublin Business School & DBS School of Arts,False, Marketing Event Management
+DB516,2016,nan, Dublin Business School & DBS School of Arts,False," Financial Services 
+"
+DB518,2016,295, Dublin Business School & DBS School of Arts,False, Marketing Digital Media
+GA284,2016,310, Galway-Mayo Institute of Technology,False, Design
+DT354,2016,350, Dublin Institute of Technology,False, Business Computing
+CW808,2016,270, Institute of Technology Carlow,False, Media and Public Relations
+LC223,2016,280, Limerick Institute of Technology,False, Law and Taxation
+LC224,2016,310, Limerick Institute of Technology,False, Business Accounting and Finance
+DN150,2016,515, University College Dublin (NUI),False, Engineering
+LC226,2016,230, Limerick Institute of Technology,False, Business Enterprise and Innovation
+LM089,2016,475, University of Limerick,False, Sport and Exercise Sciences
+SG345,2016,285, Institute of Technology Sligo,False, Architectural Design
+LY118,2016,280, Letterkenny Institute of Technology,False, Business
+LM063,2016,350, University of Limerick,False, Technology Management
+DT112,2016,310, Dublin Institute of Technology,False, Geographic Science
+WD048,2016,285, Waterford Institute of Technology,False, Business
+LY508,2016,220, Letterkenny Institute of Technology,False, Fire Safety Engineering
+MH404,2016,405, Maynooth University,False, Business Four degree options
+MH501,2016,450, Maynooth University,False, LLB Law four year single Major Law programme
+GA681,2016,250, Galway-Mayo Institute of Technology,False, Energy Engineering
+LM085,2016,465, University of Limerick,False, Civil Engineering
+GA282,2016,200, Galway-Mayo Institute of Technology,False, Heritage Studies
+MH401,2016,360, Maynooth University,False, Finance Three degree options
+MH403,2016,400, Maynooth University,False, Accounting and Finance
+LM082,2016,365, University of Limerick,False, Construction Management and Engineering
+DN120,2016,315, University College Dublin (NUI),False, Landscape Architecture
+DL832,2016,800, Dun Laoghaire Institute of Art Design and Technology,True, Animation
+CK301,2016,490, University College Cork (NUI),False, Law Pathways years or years
+CK302,2016,505, University College Cork (NUI),False, Law and French
+CK304,2016,515, University College Cork (NUI),False, Law and Irish
+CK307,2016,530, University College Cork (NUI),False, Law and Business
 CK111,2002,400, University College Cork (NUI),False, Early Childhood Studies
 CK110,2002,375, University College Cork (NUI),False, Language Cultural Studies Spanish
 CK112,2002,425, University College Cork (NUI),False, Drama and Theatre Studies
@@ -15,7 +917,8 @@ SG446,2002,nan, Institute of Technology Sligo,False," Archaeology offers
 SG445,2002,250, Institute of Technology Sligo,False, Pharmaceutical Science
 SG441,2002,280, Institute of Technology Sligo,False, Environmental Science Tech
 MH101,2002,365, Maynooth University,False, Arts
-MH103,2002,33, Maynooth University,False, Music
+MH103,2002,nan, Maynooth University,False," Music 
+"
 MH102,2002,370, Maynooth University,False, Finance
 MH105,2002,350, Maynooth University,False, German and Historical Studies
 MH104,2002,350, Maynooth University,False, French and Historical Studies
@@ -297,7 +1200,8 @@ TL280,2002,270, Institute of Technology Tralee,False, Business Studies eBusiness
 LM077,2002,390, University of Limerick,False, Aeronautical Eng
 LM074,2002,420, University of Limerick,False, Computer Integrated design
 LM073,2002,400, University of Limerick,False, Mechanical Engineering
-LM072,2002,20, University of Limerick,False, Industrial Design
+LM072,2002,nan, University of Limerick,False," Industrial Design 
+"
 LM071,2002,410, University of Limerick,False, Biomedical Engineering
 LM070,2002,400, University of Limerick,False, Electronic Engineering
 LM079,2002,355, University of Limerick,False, Manufacturing Engineering
@@ -4249,7 +5153,7 @@ LC294,2015,300, Limerick Institute of Technology,False, Business Studies with Ev
 GY504,2015,420, National University of Ireland Galway,False, Podiatry
 WD186,2015,355, Waterford Institute of Technology,False, Sports Coaching and Performance
 WD028,2015,300, Waterford Institute of Technology,False, Applied Computing
-GY501,2015,723, National University of Ireland Galway,False, Medicine
+GY501,2015,723, National University of Ireland Galway,True, Medicine year course and embedded PhD options
 GY502,2015,525, National University of Ireland Galway,False, Occupational Therapy
 GY503,2015,515, National University of Ireland Galway,False, Speech and Language Therapy
 CW448,2015,255, Institute of Technology Carlow,False, Facilities and Energy Management
@@ -8068,7 +8972,7 @@ GY205,2010,335, National University of Ireland Galway,False, Commerce Internatio
 DB568,2010,205, Dublin Business School & DBS School of Arts,False, Law
 SG448,2010,340, Institute of Technology Sligo,False, Forensic Investigation and Analysis
 LM088,2010,375, University of Limerick,False, Mathematics and Physics
-BY101,2010,23, IBAT College Dublin,False, Business
+BY101,2010,300, IBAT College Dublin,False, Business
 MH210,2010,365, Maynooth University,False, Pharmaceutical and Biomedical Chemistry
 SG446,2010,275, Institute of Technology Sligo,False, Applied Archaeology
 BN111,2010,345, Institute of Technology Blanchardstown,False, Sports Management and Coaching
@@ -9758,12 +10662,12 @@ DC167,2012,415, Dublin City University,False, Physics with Astronomy
 DC166,2012,405, Dublin City University,False, Environmental Science and Health
 DC168,2012,485, Dublin City University,False, Genetics and Cell Biology
 MH119,2012,475, Maynooth University,False, Law LLB
-ID001,2012,16, ICD Business School,False, Accounting and Finance
+ID001,2012,190, ICD Business School,False, Accounting and Finance
 DB568,2012,230, Dublin Business School & DBS School of Arts,False, Law
 SG448,2012,295, Institute of Technology Sligo,False, Forensic Investigation and Analysis
 LM088,2012,535, University of Limerick,False, Mathematics and Physics
 DB569,2012,235, Dublin Business School & DBS School of Arts,False, Business and Psychology
-BY101,2012,32, IBAT College Dublin,False, Business Marketing or BIS at Swords campus
+BY101,2012,325, IBAT College Dublin,False, Business Marketing or BIS at Swords campus
 DN440,2012,555, University College Dublin (NUI),False, Biomedical Health and Life Sciences
 DN271,2012,350, University College Dublin (NUI),False, Forestry
 DN272,2012,335, University College Dublin (NUI),False, Horticulture Landscape and Sportsturf Management
@@ -9997,7 +10901,7 @@ TA121,2012,230, Institute of Technology Tallaght,False, Accounting
 MH305,2012,350, Maynooth University,False, Product Design
 TA123,2012,200, Institute of Technology Tallaght,False, Marketing Management
 TA122,2012,245, Institute of Technology Tallaght,False, Management
-BY301,2012,21, IBAT College Dublin,False, Business Marketing or BIS at city centre campus
+BY301,2012,300, IBAT College Dublin,False, Business Marketing or BIS at city centre campus
 DC170,2012,380, Dublin City University,False, Horticulture
 DC171,2012,410, Dublin City University,False, Applied Physics
 DC173,2012,415, Dublin City University,False, Physics with Biomedical Sciences
@@ -10353,8 +11257,8 @@ GA780,2012,375, Galway-Mayo Institute of Technology,False, Applied Freshwater an
 GA781,2012,375, Galway-Mayo Institute of Technology,False, Applied Biology and Biopharmaceutical Science
 MH201,2012,415, Maynooth University,False, Science
 CM001,2012,465, Marino Institute of Education,False, Education Primary Teaching
-ID002,2012,18, ICD Business School,False, Business Studies
-ID003,2012,12, ICD Business School,False, Business Studies with Chinese
+ID002,2012,200, ICD Business School,False, Business Studies
+ID003,2012,205, ICD Business School,False, Business Studies with Chinese
 MH113,2012,400, Maynooth University,False, History
 CW028,2012,290, Institute of Technology Carlow,False, Early Childhood Education and Care Wexford
 LC266,2012,290, Limerick Institute of Technology,False, Drug and Medicinal Product Analysis

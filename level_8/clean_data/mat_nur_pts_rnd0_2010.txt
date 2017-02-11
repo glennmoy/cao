@@ -1,0 +1,58 @@
+         2010 Round 0 Points for Entry to Mature Nursing Courses
+AL111 178      Mature Applicants General Nursing
+AL113 165      Mature Applicants Psychiatric Nursing
+
+AS111 171*     Mature Applicants General Nursing
+AS131 160      Mature Applicants Intellectual Disability Nursing
+
+CK711   166    Mature   Applicants   General Nursing
+CK713   168    Mature   Applicants   Children's and General Nursing (Integrated)
+CK721   163*   Mature   Applicants   Psychiatric Nursing
+CK731   161    Mature   Applicants   Intellectual Disability Nursing
+CK741   171    Mature   Applicants   Midwifery
+
+DC225   166*   Mature   Applicants   General Nursing
+DC226   153    Mature   Applicants   Psychiatric Nursing
+DC227   150    Mature   Applicants   Intellectual Disability Nursing
+DC228   172    Mature   Applicants   Children<PU2>s and General Nursing (Integrated
+
+DK871   169    Mature   Applicants   General Nursing
+DK873   151    Mature   Applicants   Intellectual Disability Nursing
+DK875   158    Mature   Applicants   Psychiatric Nursing
+DK878   163    Mature   Applicants   Midwifery
+
+DN111   164*   Mature   Applicants   General Nursing
+DN117   170*   Mature   Applicants   Children's and General Nursing (Integrated)
+DN119   172    Mature   Applicants   Midwifery
+DN121   162    Mature   Applicants   Psychiatric Nursing
+
+GA881 168      Mature Applicants General Nursing (at Castlebar)
+GA883 171      Mature Applicants Psychiatric Nursing (at Castlebar)
+
+GY525 170      Mature Applicants General Nursing (Galway and Portiuncula)
+GY526 167      Mature Applicants Psychiatric Nursing
+GY527 171      Mature Applicants Midwifery
+
+LM151   176    Mature   Applicants   General Nursing
+LM153   169    Mature   Applicants   Mental Health Nursing
+LM155   161    Mature   Applicants   Intellectual Disability Nursing
+LM157   181    Mature   Applicants   Midwifery
+
+LY938 177      Mature Applicants General Nursing
+LY948 174      Mature Applicants Psychiatric Nursing
+LY958 170      Mature Applicants Intellectual Disability Nursing
+
+TL111 165*     Mature Applicants General Nursing
+TL116 161*     Mature Applicants Mental Health Nursing
+
+TR092   166*   Mature   Applicants   General Nursing (Meath and St James's)
+TR094   174    Mature   Applicants   General Nursing (Adelaide School of Nursing)
+TR096   153    Mature   Applicants   Psychiatric Nursing
+TR098   151    Mature   Applicants   Intellectual Disability Nursing
+TR912   179    Mature   Applicants   Children's and General Nursing (Integrated)
+TR914   171    Mature   Applicants   Midwifery
+
+WD816 171      Mature Applicants General Nursing
+WD817 161*     Mature Applicants Psychiatric Nursing
+WD820 158      Mature Applicants Intellectual Disability Nursing
+

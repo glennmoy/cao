@@ -1,3 +1,13 @@
+#########################################################################
+#                       Main analysis script.                           #
+#               Written by Glenn Moynihan August 2016                   #
+#########################################################################
+
+'''
+This is the original analysis script written in Python 2.
+I have now converted it to a more modular Python3 notebook.
+'''
+
 import numpy as np
 import pandas as pd
 import pandasql as ps
@@ -206,59 +216,59 @@ def num_cands_vs_av_points():
     - Points awarded over all years
 '''
 def histograms_of_points():
-    
-    #All courses over all years
-    mean_points=cao_data_norm.points.mean()
-    std_points=cao_data_norm.points.std()
 
-    fig=plt.figure()
-    ax=fig.add_subplot(111)
-    binlist=np.arange(0,1000,50)
-    plt.hist(cao_data_norm.points.dropna(),binlist,color=current_palette[1])
-    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points, std_points)
-    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
-    plt.xlabel('Cutoff Points')
-    plt.ylabel('Number of Courses')
-    plt.savefig('course_points_hist.pdf',bbox_inches='tight')
-    plt.show()
+#All courses over all years
+mean_points=cao_data_norm.points.mean()
+std_points=cao_data_norm.points.std()
 
- 
-    #Courses not requiring audition over all years
-    mean_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.mean()
-    std_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.std()
-
-    binlist=np.arange(0,650,50)
-    fig=plt.figure()
-    ax=fig.add_subplot(111)
-    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points_no_aud, std_points_no_aud)
-    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
-    plt.hist(cao_data_norm[cao_data_norm.audition==False].points.dropna(),binlist,color=current_palette[3])
-    plt.xlabel('Cutoff Points')
-    plt.ylabel('Number of Courses')
-    plt.savefig('course_points_hist_600.pdf',bbox_inches='tight')
-    plt.show()
-    
-    
-    #Candidates points over all years
-    mean_cands=cao_data.points.mean()
-    std_cands=cand_data.points.std()
-
-    fig=plt.figure()
-    ax=fig.add_subplot(111)
-    binlist=np.arange(0,700,50)
-    textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_cands, std_cands)
-    ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
-    plt.hist(cand_data.points.dropna(),binlist,weights=cand_data.num,color=current_palette[2])
-    plt.xlabel('Points Awarded')
-    plt.ylabel('Number of Candidates')
-    plt.savefig('points_awarded_hist.pdf',bbox_inches='tight')
-    plt.show()
+fig=plt.figure()
+ax=fig.add_subplot(111)
+binlist=np.arange(0,1000,50)
+plt.hist(cao_data_norm.points.dropna(),binlist,color=current_palette[1])
+textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points, std_points)
+ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
+plt.xlabel('Cutoff Points')
+plt.ylabel('Number of Courses')
+plt.savefig('course_points_hist.pdf',bbox_inches='tight')
+plt.show()
 
 
+#Courses not requiring audition over all years
+mean_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.mean()
+std_points_no_aud=cao_data_norm[cao_data_norm.audition==False].points.std()
 
-    print "All points mean: ",mean_points,"\tSTD: ",std_points
-    print "No Aud points mean: ",mean_points_no_aud, "\tSTD: ",std_points_no_aud
-    print "Mean Candidates:", mean_cands, "\tSTD: ",std_cands
+binlist=np.arange(0,650,50)
+fig=plt.figure()
+ax=fig.add_subplot(111)
+textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_points_no_aud, std_points_no_aud)
+ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
+plt.hist(cao_data_norm[cao_data_norm.audition==False].points.dropna(),binlist,color=current_palette[3])
+plt.xlabel('Cutoff Points')
+plt.ylabel('Number of Courses')
+plt.savefig('course_points_hist_600.pdf',bbox_inches='tight')
+plt.show()
+
+
+#Candidates points over all years
+mean_cands=cao_data.points.mean()
+std_cands=cand_data.points.std()
+
+fig=plt.figure()
+ax=fig.add_subplot(111)
+binlist=np.arange(0,700,50)
+textstr = '$\mu=%.2f$\n$\sigma=%.2f$'%(mean_cands, std_cands)
+ax.text(0.05, 0.95, textstr, transform=ax.transAxes, fontsize=14, verticalalignment='top',backgroundcolor='1.0')    
+plt.hist(cand_data.points.dropna(),binlist,weights=cand_data.num,color=current_palette[2])
+plt.xlabel('Points Awarded')
+plt.ylabel('Number of Candidates')
+plt.savefig('points_awarded_hist.pdf',bbox_inches='tight')
+plt.show()
+
+
+
+print "All points mean: ",mean_points,"\tSTD: ",std_points
+print "No Aud points mean: ",mean_points_no_aud, "\tSTD: ",std_points_no_aud
+print "Mean Candidates:", mean_cands, "\tSTD: ",std_cands
 
     return
 
@@ -531,6 +541,7 @@ def course_time_series(course,printyn):
     else:
         return 0,0,0,0,0,0
 
+'''
 print "#Course\tLin_Reg,Err\tAR(1),Err\tARIMA(1,1,0),Err"
 f = csv.writer(open("predictions_2016.csv", "wb+"))
 for course in cao_data['code'][(cao_data['year']==2015)].dropna():
@@ -540,19 +551,17 @@ for course in cao_data['code'][(cao_data['year']==2015)].dropna():
 
     if lin_reg!=0:
         f.writerow([course,lin_reg,lr_err,ar,ar_err,arima,arima_err])
-    
+''' 
 
-#course='CK203'
+#course='TR071'
 #course_time_series(course,True)
-
-
 '''
 7. Time series on different sectors based on key word in description
 '''
 '''
 #Time series for Sectors
 q12="""SELECT year,AVG(points) FROM cao_data 
-        WHERE desc LIKE '%Information%' OR '%Comput%' OR '%Software%' OR '%Digital%'
+        WHERE desc LIKE '%Engineering%'
         GROUP BY year ORDER BY year ASC"""
 time_series_norm=ps.sqldf(q12,globals())
 time_series_norm.columns=['year','points']

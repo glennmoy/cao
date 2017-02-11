@@ -1,15 +1,18 @@
+#########################################################################
+#  Compile the .dat files for each year into one .csv DataFrame.        #
+#               Written by Glenn Moynihan August 2016                   #
+#########################################################################
+
 import pandas as pd
 import numpy as np
 import csv
 
-'''
-Convert the .dat files into a csv
-'''
 def compile_points():
 
     my_dict={}
 
-    for year in reversed(range(2001,2016)):
+    for year in reversed(range(2001,2017)):
+        print year
 
         points_dict={}
         filename="points."+str(year)+".dat"
